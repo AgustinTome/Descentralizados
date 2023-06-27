@@ -1,0 +1,226 @@
+00:52:37	Florencia Vega:	Reacted to "Buenas tardes gente ..." with 😃
+00:52:47	Sebastian Scavarda:	buenas!!!
+00:52:49	Jackeline Guerrero 904112:	buenas tardes
+00:52:50	Santiago Caruso:	Buenass
+00:53:04	Ignacio Ventura:	faltan como 30 personas
+00:54:54	Nahuel Sanguinetti:	Buenas tardes
+00:55:29	Maximilliano Pippan:	Suena muy interesante el ejemplo visual
+00:58:23	Exequiel Pulgar:	320 es como el standard?
+00:58:29	Nahuel Sanguinetti:	Consulta, la plataforma les está funcionando bien?
+00:58:47	Exequiel Pulgar:	Replying to "Consulta, la platafo..."
+
+No, hay problemas
+00:58:53	Jose Barros Palma:	Respondiendo a "Consulta, la plata..."
+
+No, pesimo
+00:58:54	[TUTOR] Matias Palladino:	320 es como lo mas chico para un celular, debajo de eso, ya es para un smartwatch o algunos celus como el galaxy flex tiene menos
+00:58:58	lucas gorini:	Replying to "Consulta, la platafo..."
+
+actualizaron el site
+00:59:20	lucas gorini:	Reacted to "320 es como lo mas c..." with 🙌🏻
+00:59:32	Nahuel Sanguinetti:	Replying to "Consulta, la platafo…"
+Estoy en clase desde el cel, porque no me deja entrar en la pc
+00:59:42	Exequiel Pulgar:	cambia unicamente el nav mas que nada
+00:59:51	[TUTOR] Matias Palladino:	no necesariamente
+00:59:57	[TUTOR] Matias Palladino:	puede incluso cambiar literalmente TODO el sitio
+00:59:58	lucas gorini:	Replying to "Consulta, la platafo..."
+
+siempre te envían un correo con el link...
+01:01:27	Juan Micheloud:	osea que si o si tendríamo armar dos estructuras? una web y una mobile no?
+01:01:42	[TUTOR] Matias Palladino:	no
+01:01:49	lucas gorini:	responsive es una para ambos
+01:01:54	[TUTOR] Matias Palladino:	en realidad, una estructura se va a adaptar a ambos casos
+01:02:01	lucas gorini:	Reacted to "en realidad, una est..." with 🙌🏻
+01:02:07	Juan Micheloud:	Reacted to "en realidad, una est..." with 👍
+01:02:12	[TUTOR] Matias Palladino:	por ende, la idea es pensar la estructura bien, para facilitarnos la tarea, PREVIO a maquetar
+01:02:18	Agustin Agis:	Reacted to "en realidad, una est..." with 👍
+01:04:20	Maximilliano Pippan:	Eso seria el margen de las medidas?
+01:04:48	lucas gorini:	es decir, dependiendo que parte de la página se esté visualizando, vamos a tener que ir cambiando los media queries?
+01:05:06	[TUTOR] Matias Palladino:	depende el tamaño del dispositivo
+01:05:29	[TUTOR] Matias Palladino:	ejemplo simple: un sitio que tiene claramente definidas dos columnas de contenido en desktop, en mobile, muy probablemente se transformen en 1
+01:05:54	lucas gorini:	Reacted to "ejemplo simple: un s..." with 🙌🏻
+01:06:06	[TUTOR] Matias Palladino:	por lo tanto, lo que tendría que cambiar dentro de la mediaquerie, seria como se organiza ese elemento, quizás en desktop use flex row, y en mobile, use flex column :)
+01:06:37	Maximilliano Pippan:	entonces son completamente diferentes los valores de medidas etc
+01:06:40	Maximilliano Pippan:	no?
+01:06:50	[TUTOR] Matias Palladino:	puede que si, puede que no, eso dependerá mucho de cada sitio
+01:07:05	[TUTOR] Matias Palladino:	algunos elementos quizás no cambien, e incluso si usan medidas relativas, probablemente mucho se adapte
+01:07:14	[TUTOR] Matias Palladino:	pero es muy dependiente de cada proyecto y de su estructura
+01:07:33	Maximilliano Pippan:	Suena medio complejo pero bueno tendremos que probar
+01:07:43	[TUTOR] Matias Palladino:	es mas facil de lo que parece, tranquis
+01:08:03	Agustin Agis:	Es sencillo, ahora lo van a ver y entender mejor
+01:08:27	Ricardo Ceballos:	Un buen uso del mismo seria al final del código no ?
+01:09:07	[TUTOR] Matias Palladino:	Replying to "Un buen uso del mism..."
+
+te referis a las media queries?
+01:09:18	Ricardo Ceballos:	Replying to "Un buen uso del mism..."
+
+si
+01:09:40	Gonzalo Lencina:	como era para que se escriba solo el link?
+01:09:42	Francisco Tome:	Tienen el drive con las imágenes?
+01:09:43	[TUTOR] Matias Palladino:	Replying to "Un buen uso del mism..."
+
+yep, van al final del código, mas adelante van a ver que hay otras opciones, pero no me adelanto
+01:09:59	Ricardo Ceballos:	Reacted to "yep, van al final de..." with 👍
+01:10:06	lucas gorini:	Reacted to "Tienen el drive con ..." with 😂
+01:11:09	Ignacio Ventura:	Replying to "como era para que se..."
+
+escribi link y la extension emmet deberia autocompletarlo apretando tab
+01:12:26	Federico Baraibar:	profe podes poner el comando para poner muchas imagenes}
+01:14:05	(Profesor) Emanuel Cabral:	.item.item$*8
+01:14:35	[Tutor] Esteban Hirzfeld:	Reacted to ".item.item$*8" with 😼
+01:16:02	Maximilliano Pippan:	Siempre se establecen en el medio con el background position o se quedan fijas en el medio?
+01:16:19	Maximilliano Pippan:	Porque al principio cuando ingreso el contenido de la imagen estaba ya como en el medio
+01:16:26	Maximilliano Pippan:	Me confundio esa parte
+01:22:40	Maximilliano Pippan:	Eso lo divide en base a una sola imagen individualmente o hace falta tener varias?
+01:23:14	felipelopez:	Profe puede repetir esa parte por favor
+01:23:26	Juan Micheloud:	hablen por mic
+01:25:41	lucas gorini:	eso después va a quedar como grilla?
+01:26:00	lucas gorini:	aaa ahí está
+01:26:42	Maximilliano Pippan:	😛
+01:28:40	lucas gorini:	esto sería el ejemplo que vimos en la clase de flex que el tutor nos pasó el tip de como saber si utilizamos grid o flex, era por esto, porque si quisiésemos hacerlo con flex sería imposible xd
+01:29:13	[TUTOR] Matias Palladino:	no se si imposible, pero seria muy engorroso y un mar de <div>
+01:29:34	Braian Peralta:	No había una forma mas fácil de ordenar las fotos sin tenes que ir especificando item1 2 3 4?
+01:29:56	[TUTOR] Matias Palladino:	podrías usar grid-templeate-areas, pero es básicamente igual
+01:30:53	lucas gorini:	Reacted to "podrías usar grid-te..." with 🙌🏻
+01:30:58	Braian Peralta:	Pero de esa forma no se escribe tanto código, no ?
+01:31:02	Juan Micheloud:	asi la hicimos la clase pasada, que fue haciendo un enmaquetado (1 2 3 )                           1 4 3
+01:31:04	Juan Micheloud:	asi
+01:31:07	lucas gorini:	habría que aclarar cada uno como hace el profe?
+01:31:44	Maximilliano Pippan:	si porque sino se distorciona
+01:31:52	Maximilliano Pippan:	o no les pones las reglas parece
+01:33:11	Ignacio Ventura:	haria falta declarer el item7 ya que va a quedar igual?
+01:33:22	Ignacio Ventura:	o sea, es obligatorio?
+01:33:33	Guido Imperio:	Replying to "haria falta declarer..."
+
+ya dijo que si, para no perder toda la estructura mas adelante
+01:33:46	Ignacio Ventura:	Reacted to "ya dijo que si, para..." with 👍
+01:35:47	Francisco Rigo:	cada una se enmaqueta diferente ??
+01:36:10	lucas gorini:	si querés si y sino no, depende de vos eso
+01:36:36	[TUTOR] Matias Palladino:	son formas, cada cual usa la que prefiera
+01:36:39	[TUTOR] Matias Palladino:	yo casi siempre uso grid areas
+01:36:47	[TUTOR] Matias Palladino:	es como mas grafico para imaginarlo en mi mente :P
+01:36:54	lucas gorini:	Reacted to "es como mas grafico ..." with 😂
+01:37:11	Juan Micheloud:	mas fácil para codificarlo creo y para imaginarlo
+01:37:22	lucas gorini:	la piraste bo maxi
+01:37:27	Juan Micheloud:	haces como cuando dabas nose que cosa en análisis matemático y mutiplicabas filas por columnas
+01:38:16	[TUTOR] Matias Palladino:	pero bueno es necesario conocer todas las formas, quizás algún dia vean el código asi escrito por otra persona y van a tener que saber como modificarlo
+01:39:38	Mathias Morselli:	Cual seria la propiedad para que la imagen se adapte al tamaño de la grilla y cubra el tamaño total del item?
+01:39:54	lucas gorini:	cover
+01:39:56	Guido Imperio:	Replying to "Cual seria la propie..."
+
+background size y position
+01:40:24	lucas gorini:	Replying to "Cual seria la propie..."
+
+background-size:cover;
+01:40:40	Mathias Morselli:	Replying to "Cual seria la propie..." 
+
+ Gracias!
+01:41:39	lucas gorini:	Replying to "Cual seria la propie..."
+
+de nada
+01:42:30	Mariano Piombo:	por ahora bien
+01:42:49	lucas gorini:	profe mi única duda es cuando vamos a ver mobile-first o si ya lo vimos
+01:43:20	lucas gorini:	🥺
+01:43:25	Gonzalo Lencina:	jajjajaj
+01:44:05	MATIAS FASANO:	Replying to "profe mi única duda ..."
+
+Como responder una pregunta sin responder una pregunta.
+01:44:29	Florencia Vega:	Reacted to "Como responder una p..." with 😂
+01:44:46	lucas gorini:	Reacted to "Como responder una p..." with 😂
+01:45:33	lucas gorini:	en mobile no es hasta 576?
+01:45:40	[TUTOR] Matias Palladino:	noo
+01:45:44	[TUTOR] Matias Palladino:	se recomienda 320px
+01:45:44	lucas gorini:	o eso dice el drive sobre bootstrap
+01:45:52	[TUTOR] Matias Palladino:	bootstrap es otra cosa
+01:46:17	lucas gorini:	es del drive eso
+01:46:17	Agustin Agis:	Reacted to "Como responder una p..." with 😂
+01:46:17	Maximilliano Pippan:	A de partir de una medida estándar hacia lo que sea
+01:46:32	[TUTOR] Matias Palladino:	repito, eso es lo que define Bootstrap, estas confundiendo conceptos y asociándolos a algo que no es correcto, ojo
+01:46:33	Maximilliano Pippan:	Porque hay tablets que ocupan un pupitre entero
+01:46:54	Maximilliano Pippan:	Y también es mobile
+01:46:57	[TUTOR] Matias Palladino:	no te confundas por adelantar contenido, entiendo que bootstrap maneja esos breakpoints pero porque su sistema es diferente
+01:47:27	[TUTOR] Matias Palladino:	hay celulares que tienen resoluciones de 320px, que SIN un framework, hay que tenerlos en cuenta
+01:47:30	[TUTOR] Matias Palladino:	si, o si.
+01:47:44	Guido Imperio:	Reacted to "hay celulares que ti..." with 👏
+01:48:36	lucas gorini:	gracias
+01:49:22	[Tutor] Esteban Hirzfeld:	depende de los pixeles, no necesariamente tiene que ser un teléfono una Tablet etc, si se tiene un teléfono muy grande, entraría en la resolución de una Tablet por ejemplo
+01:49:31	Gabriela Cuñarro:	Reacted to "depende de los pixel..." with 👍
+01:49:37	Guido Imperio:	El concepto Mobile First aplica un criterio de ordenar siempre de menor a mayor, de menos a mas verdad?
+01:49:47	[Tutor] Esteban Hirzfeld:	lo importante es diseñar para los diferentes breakpoints y desp el dispositivo se va a adaptar
+01:49:53	[TUTOR] Matias Palladino:	claro, empezar a maquetar pensando en celulares primero
+01:51:09	lucas gorini:	Reacted to "claro, empezar a maq..." with 🙌🏻
+01:54:41	Maximilliano Pippan:	Lo que dice arriba de dimensiones: como hacemos para poder visualizarlo?
+01:55:49	Ignacio Ventura:	Replying to "Lo que dice arriba d..."
+
+F11 o boton derecho - inspeccionar
+01:56:15	Maximilliano Pippan:	Reacted to "F11 o boton derecho ..." with 👍
+01:56:22	Maximilliano Pippan:	Replying to "Lo que dice arriba d..."
+
+graciela
+01:58:38	Ignacio Ventura:	Replying to "Lo que dice arriba d..."
+
+F12 era, perdon le pifie jaj
+01:58:59	Maximilliano Pippan:	Reacted to "F12 era, perdon le p..." with 😛
+01:59:00	lucas gorini:	Replying to "Lo que dice arriba d..."
+
+es ctrl w
+01:59:05	Maximilliano Pippan:	Reacted to "es ctrl w" with 😯
+01:59:07	lucas gorini:	Replying to "Lo que dice arriba d..."
+
+🧐
+01:59:12	Maximilliano Pippan:	Reacted to "🧐" with 🤪
+01:59:14	lucas gorini:	Replying to "Lo que dice arriba d..."
+
+o alt f4
+01:59:23	Maximilliano Pippan:	Reacted to "o alt f4" with 🥳
+01:59:25	Gaspar Otaiza:	Reacted to "es ctrl w" with 😂
+01:59:50	jorge vacaflor:	Reacted to "o alt f4" with 🥳
+02:02:09	Francisco Rigo:	y maso ya es un alto bardo
+02:02:43	Mathias Morselli:	Reacted to "y maso ya es un alto..." with 😂
+02:03:23	Guido Imperio:	profe los valores que van variando las distintas resoluciones los estableces a ojo digamos?
+02:03:32	lucas gorini:	Reacted to "y maso ya es un alto..." with 😂
+02:03:50	lucas gorini:	hay una guía pero no sé donde
+02:04:36	Claudio Linconao:	Es posible hacer un maquetado responsive para smartv
+02:04:39	Claudio Linconao:	?
+02:04:56	lucas gorini:	Reacted to "Es posible hacer un ..." with 🧐
+02:04:59	[TUTOR] Matias Palladino:	si, es factible Clau
+02:05:16	[TUTOR] Matias Palladino:	de hecho, no cambia casi nada
+02:07:09	lucas gorini:	los media queries van al final dijeron
+02:09:12	(Profesor) Emanuel Cabral:	Replying to "Es posible hacer un ..."
+
+si pero generalmente nos basamos en la resolución de un monitor de pc
+02:10:43	(Profesor) Emanuel Cabral:	Replying to "El concepto Mobile F..."
+
+asi es enfocándonos en una resolución pequeña
+02:11:15	Federico Baraibar:	profe}
+02:11:59	Federico Baraibar:	cuando bajo de la resolcion 480 no me ve en una columna
+02:12:04	Federico Baraibar:	se me ve todo junto
+02:12:07	(Profesor) Emanuel Cabral:	Replying to "{54535B3E-BC90-4792-B3AC-CDCD061B406B}.png"
+
+pronto veremos como trabajar con esta forma que es diferente a esta
+02:13:41	(Profesor) Emanuel Cabral:	te animas a compartir
+02:13:51	Federico Baraibar:	sisi
+02:16:36	Exequiel Pulgar:	como minimo 480
+02:20:53	Claudio Linconao:	Replying to "Es posible hacer un …"
+Gracias
+02:22:34	Francisco Tome:	Hola algún tutor podría revisar por que aun no tengo el presente?
+02:27:37	Tutor-Agustin Agis:	Replying to "Hola algún tutor pod..."
+
+Francisco te fijaste en alumnos quien es tu tuto?
+02:28:22	Francisco Tome:	Replying to "Hola algún tutor pod..."
+
+@Tutor-Agustin Agis Ya estaría resuelto aparentemente. Muchas gracias
+02:28:40	Tutor-Agustin Agis:	Replying to "Hola algún tutor pod..."
+
+Qué bueno Fran!
+02:52:07	[TUTOR] Matias Palladino:	Igual, importante, media queries van a tener que usar
+02:52:18	[TUTOR] Matias Palladino:	Bootstrap soluciona cosas, pero no es el remedio inmediato
+02:52:53	Juan Cruz Benitez Arce:	me paso lo mismo
+02:55:00	Florencia Vega:	excelente :)
+02:55:08	Florencia Vega:	muchísimas gracias!!
+02:55:09	Gabriela Cuñarro:	buenas noches!!
+02:55:12	Ricardo Ceballos:	Adios!
+02:55:14	Florencia Castro:	chauuuuu
+02:55:15	miguelangel quinterososzust:	Chauu
+02:55:19	Jackeline Guerrero:	gracias. buenas noches
+02:55:20	Ignacio Ventura:	buenas noches

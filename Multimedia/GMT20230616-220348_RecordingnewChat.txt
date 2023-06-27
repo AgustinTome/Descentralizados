@@ -1,0 +1,154 @@
+00:33:13	Maximiliano Alfonzo Lopez:	buenas tardes
+00:33:16	Gabriela Cuñarro:	buenas
+00:34:02	Mauricio Muñoz:	Buenas noches!!
+00:35:31	(Profesor) Emanuel Cabral:	https://getbootstrap.com/
+00:37:13	Florencia Vega:	tremedo dato, profe
+00:38:59	Guido Imperio:	profe, es obligatorio usar los comentarios?
+00:39:30	Florencia Vega:	Replying to "profe, es obligatori..."
+
+no, es por si queres programar de forma mas ordenada
+00:39:47	Florencia Vega:	Replying to "profe, es obligatori..."
+
+o no perderte de donde inicia y finaliza alg
+00:39:54	Florencia Vega:	Replying to "profe, es obligatori..."
+
+algún complemento
+00:39:55	Guido Imperio:	Replying to "profe, es obligatori..."
+
+gracias flor 🥰
+00:39:57	Ignacio Ventura:	Replying to "profe, es obligatori..."
+
+o para dejar comentarios a quien vaya a editar el codigo luego, entre otras!
+00:40:16	Florencia Vega:	Reacted to "gracias flor 🥰" with 😃
+00:44:06	(Profesor) Emanuel Cabral:	https://www.w3schools.com/bootstrap4/default.asp
+00:46:05	victoria soraiz:	profe puede mostrar de nuevo cual navbar selecciono
+00:47:08	Ignacio Ventura:	Replying to "profe puede mostrar ..."
+
+El que dice "Collapsing The Navigation Bar"
+00:52:16	Dario Velasquez:	Replying to "profe puede mostrar ..."
+
+Por fa repite eso un momento
+00:52:37	(Profesor) Emanuel Cabral:	<nav class="navbar navbar-expand-md bg-dark navbar-dark">  <!-- Brand -->  <a class="navbar-brand" href="#">Navbar</a>  <!-- Toggler/collapsibe Button -->  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">    <span class="navbar-toggler-icon"></span>  </button>  <!-- Navbar links -->  <div class="collapse navbar-collapse" id="collapsibleNavbar">    <ul class="navbar-nav">      <li class="nav-item">        <a class="nav-link" href="#">Link</a>      </li>      <li class="nav-item">        <a class="nav-link" href="#">Link</a>      </li>      <li class="nav-item">        <a class="nav-link" href="#">Link</a>      </li>    </ul>  </div></nav>
+00:54:14	Santiago Caruso:	Buenas
+00:56:17	(Profesor) Emanuel Cabral:	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+00:58:12	Guido Imperio:	me encanta
+00:59:06	Florencia Vega:	awesome
+00:59:08	Florencia Vega:	ahre
+00:59:14	Ignacio Ventura:	Reacted to "awesome" with 😂
+00:59:21	Mauricio Muñoz:	jajajajajaja
+00:59:22	Francisco Rigo:	Reacted to "ahre" with 😂
+00:59:30	Guido Imperio:	Reacted to "awesome" with 😂
+01:00:30	Florencia Vega:	qué tramposos
+01:01:30	Mauricio Muñoz:	el emoji se comportaba como los textos?
+01:02:43	Guido Imperio:	al final recurrimos bastante a los important, pensé que no era muy recomendado
+01:03:08	Mauricio Muñoz:	perfecto!
+01:03:12	Florencia Vega:	Replying to "al final recurrimos ..."
+
+es que los de bs quieren que prevalezcca su codigo
+01:03:43	Florencia Vega:	Replying to "al final recurrimos ..."
+
+y lo metieron por todo el código, jajaja
+01:03:53	Guido Imperio:	BS lo vale jajajaj
+01:03:58	Guido Imperio:	Replying to "al final recurrimos ..."
+
+son egocéntricos
+01:03:58	victoria soraiz:	Replying to "al final recurrimos ..."
+
+el link de Font awasome en que parte iba? me perdi en eso
+01:04:01	Gabriela Cuñarro:	para mi mejor hacerlo de cero y a gusto de cada uno
+01:04:50	Mauricio Muñoz:	inspeccionando podemos ver como están compuestas cada clase??
+01:04:58	Ignacio Ventura:	Replying to "al final recurrimos ..."
+
+arriba de tu style.css
+01:05:01	Florencia Vega:	Replying to "inspeccionando podem..."
+
+sip
+01:05:02	Guido Imperio:	Replying to "inspeccionando podem..."
+
+si señor
+01:05:09	victoria soraiz:	Replying to "al final recurrimos ..."
+
+graciasss
+01:05:34	Mauricio Muñoz:	Replying to "inspeccionando podem..."
+
+genial!!!
+01:05:49	lucas gorini:	yo aprendí js gracias a dalto ajaja
+01:07:01	Gabriela Cuñarro:	Reacted to "yo aprendí js gracia..." with 👏
+01:16:34	Santiago Caruso:	cuantos pixeles equivale 1 rem?
+01:16:35	Florencia Vega:	me suena a un trasformer
+01:16:39	Guido Imperio:	excelente
+01:17:08	Ignacio Ventura:	hablando del selector universal, no hace falta usarlo con boostrap?
+01:18:00	Florencia Vega:	spoiler profe, ya fue
+01:18:13	Mariano Piombo:	Mandela profe somos pocos
+01:18:16	Mariano Piombo:	No vamos a decir nada
+01:18:17	Francisco Rigo:	Reacted to "Mandela profe somos ..." with 😂
+01:18:17	Florencia Vega:	jajaaj
+01:18:18	Ignacio Ventura:	Reacted to "Mandela profe somos ..." with 😂
+01:18:19	Mariano Piombo:	Jaja
+01:19:02	Florencia Vega:	premio pa los que estamos
+01:19:24	Mariano Piombo:	Tal cual
+01:20:13	Francisco Rigo:	👍
+01:21:56	Mariano Piombo:	Profe consulta , si yo hago mi segunda pre entrega o entrega final , con bastante bootstrap y lo modifico con  dándole un estilo más propio estaría bien ? O si o si es usando flex , grid no se si se me.entendio 😆
+01:22:09	Mariano Piombo:	Estoy en el trabajo no puedo activar el mic
+01:22:17	Florencia Vega:	el menos fiaca
+01:22:43	Ignacio Ventura:	hay que usar boostrap, asi que mal no va a estar, pero tambien dice que usemos grid y flex
+01:22:45	Florencia Vega:	tremendo giro
+01:31:25	Sebastian Scavarda:	profe consulta: si se agrega al css selector universal con margin  0, no haría falta ir especificando el margin botton en cada div??
+01:35:43	Guido Imperio:	ósea podemos hacer algo responsive sin media
+01:35:55	Guido Imperio:	es un golazo eso
+01:39:35	Dario Velasquez:	Jajaja tal cual
+01:39:40	Gabriela Cuñarro:	jaja peligrosa su pregunta
+01:41:54	lucas gorini:	ponele padding ajaja
+01:42:00	Dario Velasquez:	En la pagina de bootstrap en el menu de navegacion de la Izquierda sale bootstrap 4 y mas abajo bootstrap 3
+Estas son actualizaciones? Podemos cualquiera?
+01:42:36	Mariano Piombo:	Buen after profe , no me puedo hacer más el bldo  , tengo q ir a laburar, saludos
+01:42:39	Mariano Piombo:	Jajs
+01:42:46	lucas gorini:	toca agarrar la pala
+01:42:54	Mariano Piombo:	Tal cual jaja
+01:42:55	lucas gorini:	#miedo
+01:43:03	lucas gorini:	#terror#ozuna
+01:43:09	Santiago Caruso:	😐
+01:44:27	lucas gorini:	si profe tengo que reveer la clase anterior además
+01:44:35	lucas gorini:	me perdí pasadas las 20 aajaja
+01:45:01	Santiago Caruso:	esa pagina no se va a hacer sola muchachos
+01:45:15	Santiago Caruso:	Reacted to "me perdí pasadas las..." with 😎
+01:45:23	Florencia Vega:	chatgpt
+01:45:29	Florencia Vega:	ahre
+01:45:32	Florencia Vega:	jajajajaja
+01:45:33	Francisco Rigo:	Reacted to "chatgpt" with 😂
+01:45:42	Francisco Rigo:	que dice sra?
+01:45:47	Francisco Rigo:	Reacted to "que dice sra?" with 😂
+01:45:51	Guido Imperio:	el que no debe ser nombrado
+01:45:52	Santiago Caruso:	Replying to "chatgpt"
+
+no te regales asi flor
+01:45:53	Florencia Vega:	Reacted to "que dice sra?" with 😂
+01:46:07	santiago rios:	Reacted to "chatgpt" with 😂
+01:46:07	Florencia Vega:	Replying to "chatgpt"
+
+es un ayudin no ma
+01:46:24	Florencia Vega:	Reacted to "el que no debe ser n..." with 😂
+01:46:34	Ricardo Ceballos:	HACELO CUEVASS
+01:47:07	Florencia Vega:	igual estamos viendo código hechos dea
+01:47:11	Florencia Vega:	jajajaja
+01:47:31	Santiago Caruso:	Reacted to "igual estamos viendo..." with 🤯
+01:47:44	lucas gorini:	todo lo que usamos ya está hecho
+01:47:49	lucas gorini:	no porfe gracias
+01:47:52	lucas gorini:	profe*
+01:47:52	Mauricio Muñoz:	por ahora no profe
+01:47:52	Dario Velasquez:	Practicar y listo
+01:47:54	Gabriela Cuñarro:	no gracias!
+01:47:55	Santiago Caruso:	todo piola
+01:47:56	Dario Velasquez:	Gracias
+01:48:00	Guido Imperio:	nono, será momeno de embriagarse
+01:48:02	Florencia Vega:	muchas gracias, profe!
+01:48:03	Ignacio Ventura:	nada mas, gracias profe, muy buena after!
+01:48:06	victoria soraiz:	muy buena clase profe, graciasss
+01:48:09	Dario Velasquez:	Reacted to "nono, será momeno de..." with ❤️
+01:48:13	victoria soraiz:	Reacted to "nono, será momeno de..." with ❤️
+01:48:21	Santiago Caruso:	hoy se sale profee
+01:48:46	Ignacio Ventura:	buen findee
+01:48:47	Gabriela Cuñarro:	gracias igualmente!
+01:48:52	Mauricio Muñoz:	igualmente profe!! hasta el jueves!!
+01:48:52	Santiago Caruso:	Nos vemos
+01:48:53	Maximiliano Alfonzo Lopez:	gracias profesor e igualmente

@@ -1,0 +1,2111 @@
+WEBVTT
+
+00:21:55.000 --> 00:21:58.000
+Le va a salir abreviación de Amet.
+
+00:21:58.000 --> 00:22:03.000
+Y ya con esto le gana un enter o tabullan y le sale todo el resultado.
+
+00:22:03.000 --> 00:22:18.000
+Este la verdad, que es muy práctico, porque si ustedes tienen que declarar muchos elementos que sigan, esta le va a hacer muchísimo.
+
+00:22:18.000 --> 00:22:22.000
+Señal.
+
+00:22:22.000 --> 00:22:23.000
+Gracias a.
+
+00:22:23.000 --> 00:22:27.000
+Después. Les recuerdo que este código se le voy a estar compartiendo, no de nada.
+
+00:22:27.000 --> 00:22:31.000
+Así como hice la clase anterior. También les compartí el otro cojo.
+
+00:22:31.000 --> 00:22:39.000
+Bueno, vamos a ver el código. Es ese.
+
+00:22:39.000 --> 00:22:49.000
+Bien, la idea es que empecemos a trabajar ahora con esta nueva propiedad conocida como Great Collum y Great Row.
+
+00:22:49.000 --> 00:22:59.000
+Así es simple y sencillo. Vamos a ir mencionando a estas 2 propiedades para estar estableciendo el espacio, a ocuparse.
+
+00:22:59.000 --> 00:23:05.000
+¿ Dependiendo de la filas y columnas que va a estar tomando en cuenta por medio de las grillas.
+
+00:23:05.000 --> 00:23:15.000
+La verdad. Ya hice ingreso del botón. Fui a la parte y acá nos encontramos que es lo mismo que apretar f 2.
+
+00:23:15.000 --> 00:23:25.000
+Desde aquí ustedes van a ver el ingreso de estas barritas en donde puedo achicar, puedo agrandar si vamos a tomar en cuenta, ¿
+
+00:23:25.000 --> 00:23:32.000
+De ahora en más el ingreso de la parte de la vista.
+
+00:23:32.000 --> 00:23:39.000
+Si el diseño responsa haciendo clic en este dispositivo esa puede aparecer una computadora con una tablet.
+
+00:23:39.000 --> 00:23:43.000
+Eso va a depender de él en en Chrome.
+
+00:23:43.000 --> 00:23:50.000
+Lo tenemos a la izquierda, también puede aparecerles que quizás lo tengan en el panel derecho.
+
+00:23:50.000 --> 00:24:08.000
+Vamos a ver. Les voy a mostrar también que desde los 3 puntitos acá tienen la opción de anclarlo en la parte inferior. Eso depende como, lo por ejemplo, acá lo podemos ven lo puedo poner también.
+
+00:24:08.000 --> 00:24:14.000
+Y también como lo estábamos viendo en la parte, Sí, Sí.
+
+00:24:14.000 --> 00:24:33.000
+Entonces sepan que apretando en este lugar donde aparece un dispositivo en Chrome, lo tenemos a la izquierda en Mozilla, lo tenemos a la derecha, si no recuerdo, el resto, pero siempre van a ver un icono muy similar a este qué le va a parecer la posibilidad de verlo
+
+00:24:33.000 --> 00:24:44.000
+en determinadas resoluciones en la parte superior podremos ver el ingreso del ancho y del alto Sí, acá tenemos a medida que voy.
+
+00:24:44.000 --> 00:24:54.000
+Ahí se va agrandando también las dimensiones. En cuanto al ancho, esto es importante para ir viendo cómo va quedando el aspecto de nuestra web.
+
+00:24:54.000 --> 00:25:01.000
+Muy bien. Y si queremos, por ejemplo, seleccionar algún elemento, en particular y tener información acerca del mismo, tenemos un puntero.
+
+00:25:01.000 --> 00:25:28.000
+Ese ven? Me y vemos que también me aparece el código en la parte de Htl, y también a la derecha tenemos el código de Css con toda la información de la cual estamos tratando ir armando esta codificación y ahí vemos este resultado así que la verdad bastante práctico
+
+00:25:28.000 --> 00:25:33.000
+útil como para ir, así que es sumamente recomendable.
+
+00:25:33.000 --> 00:25:53.000
+Bueno, como les digo, nosotros vamos a tratar de ir de replicar nuestra nuestra galería que vimos aquí en esta imagen por medio de las great lines las grimes, si vamos a la parte de diseño, si en este lugar donde dice estilos calculados, y a la derecha tenemos diseño en la parte
+
+00:25:53.000 --> 00:25:57.000
+inferior. Tenemos donde hice superposiciones de cuadrícula.
+
+00:25:57.000 --> 00:26:01.000
+Algunos quizás lo encuentren como Britt Overlace,
+
+00:26:01.000 --> 00:26:07.000
+Que es otra alternativa O green Lines depende del navegador en donde se encuentran 1.
+
+00:26:07.000 --> 00:26:17.000
+Ustedes pueden hacer uso de del clic y tildar a este elemento donde dice deep punto galería y de y podremos ver.
+
+00:26:17.000 --> 00:26:23.000
+Esta lineas nos van a estar sirviendo para ir separando el posicionamiento de cada elemento.
+
+00:26:23.000 --> 00:26:34.000
+Sí. Entonces mediante esta Jin, estas líneas, a partir de ahora nos van a servir para ir a armando a nuestra nuestro, nuestro.
+
+00:26:34.000 --> 00:26:40.000
+Así que lo primero que tenemos que ir imaginando desde aquí desde aquí.
+
+00:26:40.000 --> 00:26:45.000
+Nuevamente se salió un segundo. Vamos volvemos a buscar.
+
+00:26:45.000 --> 00:26:49.000
+Profe. Perdón que te se llegaste al responsable.
+
+00:26:49.000 --> 00:26:50.000
+Y si.
+
+00:26:50.000 --> 00:26:56.000
+¿Cómo ¿Cómo llegaste al responsio?
+
+00:26:56.000 --> 00:26:57.000
+Un que se.
+
+00:26:57.000 --> 00:26:59.000
+O sea, F, 2. O fíjate ahí botas de techo, claro, y ahí te va a estar mostrando todo esto.
+
+00:26:59.000 --> 00:27:05.000
+Poco a poco tiempo Te puedo compartir rápido que no me no me funcione. Eso.
+
+00:27:05.000 --> 00:27:06.000
+Hace un tiempo. ¿Vale?
+
+00:27:06.000 --> 00:27:12.000
+Dale dale dale ahí. Ahí te dejo el.
+
+00:27:12.000 --> 00:27:18.000
+Segunda.
+
+00:27:18.000 --> 00:27:21.000
+Y es.
+
+00:27:21.000 --> 00:27:25.000
+Hay Tas en la parte de respuesta. Y fíjate que a la derecha vos lo tenés.
+
+00:27:25.000 --> 00:27:33.000
+Bueno, en color blanco, pero más en la parte de donde hice estilos en la parte del i out.
+
+00:27:33.000 --> 00:27:37.000
+Por y la i out. Tenés grietas. ¿ Tenés Grit, Oberley.
+
+00:27:37.000 --> 00:27:40.000
+Fíjate que de ahí dice justamente lo que te mencionaba, lo tildas.
+
+00:27:40.000 --> 00:27:45.000
+Y ahí vas a ver las líneas. Incluso le puede cambiar el coro.
+
+00:27:45.000 --> 00:28:00.000
+Le puedes cambiar de color. Fíjate que ahí tenés a y desde ahí seleccionase un color más oscuro como para que sea más Bueno, bueno, y y te sirve para ir manejándote ahora con esta nueva propia así que.
+
+00:28:00.000 --> 00:28:06.000
+Claro, Y para cerrar, viste como a vos te dice de arriba las lo lo eso es.
+
+00:28:06.000 --> 00:28:14.000
+Tenés que posesionarte en la ahí. Justo estás en el tienes el dispositivo a la derecha s.
+
+00:28:14.000 --> 00:28:17.000
+Ahí está.
+
+00:28:17.000 --> 00:28:22.000
+Para que no.
+
+00:28:22.000 --> 00:28:23.000
+A ver si nos vamos a. Muchas gracias.
+
+00:28:23.000 --> 00:28:26.000
+Para los anchos de altura también. Así que te va a servir, no nada.
+
+00:28:26.000 --> 00:28:28.000
+Ahí te dejo compartir.
+
+00:28:28.000 --> 00:28:34.000
+Vuelvo a.
+
+00:28:34.000 --> 00:28:40.000
+Bien. Y ahora sí nos vamos a ir de enfocarnos en este en este diseño.
+
+00:28:40.000 --> 00:28:49.000
+Voy a poner en grande ahí a la derecha. Bien basándonos en este diseño.
+
+00:28:49.000 --> 00:28:50.000
+Y el.
+
+00:28:50.000 --> 00:29:01.000
+Tenemos que saber la cantidad de Vamos a a ver.
+
+00:29:01.000 --> 00:29:08.000
+Ahí estamos. Y bueno, les estaba mostrando.
+
+00:29:08.000 --> 00:29:19.000
+Ahora si bien en la cantidad de Ehh, por eso lo tenemos que ir mostrando como esta, esta sería nuestra primera línea.
+
+00:29:19.000 --> 00:29:27.000
+En cuanto a las columnas, la segunda, la tercera, la cuarta, perdone y perdone la.
+
+00:29:27.000 --> 00:29:33.000
+Y en cuanto a las filas, tenemos la primera, la segunda, la tercera y la cuarta.
+
+00:29:33.000 --> 00:29:58.000
+Si seguimos en la primera imagen, es una imagen en formato vertical donde está ocupando 2 filas porque tenemos la primera y la segunda y una sola columna, Si desde aquí estamos viendo que va desde la primera hacia la segunda bien entonces nosotros tenemos que replicando y manejándonos por la incorporación de estos
+
+00:29:58.000 --> 00:30:23.000
+numeritos para ir estableciendo el espacio que va. Si yo hago mención de esta imagen, vamos a poner la vamos a decirle que va a comenzar en cuanto a las filas en la primera y en la segunda, ahora, en cuanto a las columnas comienza en la segunda voy a poner comienza en la segunda y termina en
+
+00:30:23.000 --> 00:30:36.000
+la tercera? Vamos a con este mismo criterio. Vamos a ir generando la incorporación de nuestro maquetado e incluso podemos estar combinando filas tic y columnas.
+
+00:30:36.000 --> 00:30:39.000
+Así que esa sería la idea. Muy bien, vamos a verlo ahora desde 0.
+
+00:30:39.000 --> 00:30:48.000
+Nos vamos a tratar de enfocar en este mismo diseño al elemento.
+
+00:30:48.000 --> 00:31:08.000
+1. Si alí ten 1, le vamos a decir que incorpore el ingreso de la propiedad, Grey Collum, yo les digo que para cada elemento lo ideal es que trabajemos con el mismo orden que yo de claro primero grie colon después de clarence Grit, rob por ejemplo, manténganse de esta
+
+00:31:08.000 --> 00:31:18.000
+misma manera para no marearse y no en la primera e imagen como como les mencionaba.
+
+00:31:18.000 --> 00:31:29.000
+El espacio de la primera línea hacia la segunda. Entonces vamos a ingresar el valor de 1 o barra 2.
+
+00:31:29.000 --> 00:31:59.000
+En cuanto a las columnas, en cuanto a las líneas. En cuanto a las 1, está ocupando el espacio hacia la tercera. No sé si acá la segunda no la vamos a nombrar porque justamente ocupa todo este espacio. Entonces vamos a poner 1 bien, ponemos una vamos a ir voy a mostrar el resultado, esto lo vamos a.
+
+00:32:02.000 --> 00:32:06.000
+Vamos a ver. Vamos a.
+
+00:32:06.000 --> 00:32:15.000
+La verdad. Y te sí, Estamos justamente enlazando correctamente.
+
+00:32:15.000 --> 00:32:24.000
+A ver, tenemos un problema. Voy a comentar un.
+
+00:32:24.000 --> 00:32:40.000
+Bien el vamos. Bien. Esta noche, Tenemos que aclarar primeramente si me declarar la cantidad de filas y columnas, entonces con Griet Ehh Collins.
+
+00:32:40.000 --> 00:32:45.000
+Grita en Play, vamos a definir, vamos a definir de 4 columnas.
+
+00:32:45.000 --> 00:33:06.000
+Eso vamos a hacer. Primeramente, vamos a darle el valor de repite inserto el valor de 4 para declarar que voy a tener 4 columnas de un fr bien, y también le vamos a dar un grito en Play Ross con el valor de la de este año también de repite y son 3 columnas.
+
+00:33:06.000 --> 00:33:13.000
+De 3 filas de, por ejemplo, 200, pixeles, cada 1 vamos a.
+
+00:33:13.000 --> 00:33:21.000
+Y ahí ya vamos a ver el cambio. Sí, me había olvidado ahí de día, agregando estas 2 propiedades para darle, ¿
+
+00:33:21.000 --> 00:33:31.000
+El formato de esta, entonces ahí ya vemos, como ha combinado esta imagen, estas 2 filas, lo mismo vamos a hacer con el resto.
+
+00:33:31.000 --> 00:33:33.000
+Vamos a pasar a la siguiente imagen.
+
+00:33:33.000 --> 00:33:36.000
+A ver.
+
+00:33:36.000 --> 00:33:39.000
+Sí.
+
+00:33:39.000 --> 00:33:40.000
+Es importante.
+
+00:33:40.000 --> 00:33:47.000
+Sí. Qué pena? Una pregunta. Usted, como sabe cuántos pixeles le debe agregar a las a las filas.
+
+00:33:47.000 --> 00:33:48.000
+Por ejemplo, hay.
+
+00:33:48.000 --> 00:33:54.000
+Eso lo voy calculando. Es relativo Puedes estar restableciendo el valor que vos quieras, vas a ir viendo cómo te va quedando siempre ya.
+
+00:33:54.000 --> 00:33:55.000
+Uh, uh.
+
+00:33:55.000 --> 00:34:01.000
+Esto con con relación a la experiencia que vamos a ir adquiriendo a través de diferentes proyectos.
+
+00:34:01.000 --> 00:34:13.000
+En este. Entonces, bueno, más o menos a ojo, le voy diciendo ¿Qué tipo de Piche le vamos a ir agregando en este caso en las filas, Ok?
+
+00:34:13.000 --> 00:34:15.000
+Vale, Sí, Muchas gracias.
+
+00:34:15.000 --> 00:34:28.000
+No nada. Vamos a pasar con el siguiente elemento: El 2 abrimos las llaves de fin Gret College.
+
+00:34:28.000 --> 00:34:31.000
+Y establezco que este elemento queda en el mismo lugar.
+
+00:34:31.000 --> 00:34:43.000
+Si yo puedo saltearlo directamente, puedo que que no agrego ningún tipo de propiedad, pero yo les recomiendo a ustedes que lo establezcan para que no tengan inconvenientes.
+
+00:34:43.000 --> 00:34:44.000
+Por ahora para que no se mareen, para que sea sumamente fácil de aprender.
+
+00:34:44.000 --> 00:35:10.000
+Sumamente práctico a la hora de ir trabajando entonces. Por ahora, declarenlo igual por más que la ubicación sea la adecuada, porque si después, cuando trabajan con las mediaquad ahí pueden presentar detalles en donde se les pueda romper todo el formato, del entonces para que no pase, eso sí pero
+
+00:35:10.000 --> 00:35:15.000
+Bueno, les recomiendo que sí o sí declaren estas propiedades.
+
+00:35:15.000 --> 00:35:21.000
+Bien, entonces, en cuanto a.
+
+00:35:21.000 --> 00:35:29.000
+Vamos acá. En cuanto a columnas. Nos encontramos en la primera en la segunda.
+
+00:35:29.000 --> 00:35:30.000
+De la hacia la tercera. Entonces ahí vamos a poner 2 barra, 3.
+
+00:35:30.000 --> 00:35:58.000
+En cuanto a columnas. Bien ponemos 2 o a 3 y en cuanto a filas, en el mes de septiembre, comienza en la segunda grit Road, comienza la primera y termina en la segunda, vamos a pasar con la siguiente punto Item 3 abrimos las llaves declaró nuevamente Grit
+
+00:35:58.000 --> 00:36:07.000
+colons. Y si, y trabajamos con la tercera imagen, esta.
+
+00:36:07.000 --> 00:36:12.000
+No sé qué pasó de.
+
+00:36:12.000 --> 00:36:16.000
+A ver. Vamos de vuelta a mostrar la imagen.
+
+00:36:16.000 --> 00:36:22.000
+Bien, esta es una. Ehh combinándose las columnas. Entonces acá.
+
+00:36:22.000 --> 00:36:27.000
+Vamos a tener que decirle que comience desde la tercera fila y termine en la quinta.
+
+00:36:27.000 --> 00:36:32.000
+Acá tenemos la cuarta en el medio en cuanto a columnas.
+
+00:36:32.000 --> 00:36:35.000
+Así que 3 barras, 5 va a. Ponemos nuevamente desde aquí 3 barras, 5 guardamos, y ahí ya vemos el resultado.
+
+00:36:35.000 --> 00:36:49.000
+A la derecha perfecto en cuanto a líneas, comienza en la primera y termina en la segunda.
+
+00:36:49.000 --> 00:37:19.000
+Entonces ponemos crip. Row, 1 Establezco 1. No vamos a ver ningún cambio, porque justamente es el que queríamos estar indicando con respecto al elemento, 4, el item 4, si sigamos en la imagen, se esa combinación que es la primera vez entre la fila bien entonces vamos a poner Dreat.
+
+00:37:19.000 --> 00:37:25.000
+Colum. En primer lugar donde comienzan la segunda fila en la segunda línea.
+
+00:37:25.000 --> 00:37:30.000
+En la segunda green line de columnas y termina en la tercera, 2, barra, 3.
+
+00:37:30.000 --> 00:37:38.000
+Bien. Bueno, Bueno, ya de esa forma ya tenemos declarado nuestras columnas.
+
+00:37:38.000 --> 00:37:46.000
+Nos está faltando. La combinación de filas que en este lugar comienza desde la segunda línea.
+
+00:37:46.000 --> 00:37:57.000
+Tercera, y termina en la cuarta. Entonces pongo 2 barras, 4 y guardamos, y ahí se puede apreciar cómo se ha.
+
+00:37:57.000 --> 00:38:08.000
+Con esta combinación de de pasamos al siguiente punto: Iten 5 de Declaramos que quede en el mismo lugar en la imagen.
+
+00:38:08.000 --> 00:38:10.000
+Está en Santander, en el mismo lugar, pero no, pero respetamos esto mediante el código.
+
+00:38:10.000 --> 00:38:22.000
+Lo estamos declarando implícitamente, vamos a decirle que tenga el.
+
+00:38:22.000 --> 00:38:30.000
+Grícolum, donde comienza en la tercera. Y termina en la cuarta 3 barra, 4.
+
+00:38:30.000 --> 00:38:39.000
+Y en cuanto a las declaró en la segunda y termina en la tercera 2 barra 3.
+
+00:38:39.000 --> 00:38:46.000
+Bien el punto y te.
+
+00:38:46.000 --> 00:38:57.000
+6. Lo mismo acá. Termina, ¿ Comienza en la cuarta línea y termina en la Quinta Gary Colon.
+
+00:38:57.000 --> 00:39:00.000
+4 barras, 5.
+
+00:39:00.000 --> 00:39:10.000
+Y y también 2 barra 3. Si de la segunda adelante línea.
+
+00:39:10.000 --> 00:39:17.000
+Nos está quedando el 7 punto y en este caso iten 7.
+
+00:39:17.000 --> 00:39:21.000
+Desde ahí ponemos en el en este lugar, comienza desde la primera línea y termina en la segunda.
+
+00:39:21.000 --> 00:39:31.000
+Si bien lo voy a volver a marcar primera y segunda.
+
+00:39:31.000 --> 00:39:35.000
+Ponemos 1.
+
+00:39:35.000 --> 00:39:48.000
+Y con respecto a Greg Row, tenemos la primera, la segunda, la tercera en queda 3 barra, 4.
+
+00:39:48.000 --> 00:39:55.000
+Vamos allá bien en el y nos está quedando el último elemento.
+
+00:39:55.000 --> 00:40:02.000
+Litten, 8, donde va a comenzar desde la tercera hacia la quinta.
+
+00:40:02.000 --> 00:40:06.000
+Bien, entonces ponemos.
+
+00:40:06.000 --> 00:40:13.000
+Peret Collum con a Comienza en la tercera, y termina en la quinta, hay automáticamente.
+
+00:40:13.000 --> 00:40:18.000
+Cuando lo guardemos, vamos a ver este cambio. Ya tenemos el mismo resultado.
+
+00:40:18.000 --> 00:40:24.000
+Bien y por declaramos también el Gil Row, donde comienza.
+
+00:40:24.000 --> 00:40:34.000
+Pero aita primera, segunda, tercera, cuarta, sí de la tercera, a la cuarta fila.
+
+00:40:34.000 --> 00:40:48.000
+Ponemos 3 y guardamos genial, Ya tenemos el diseño de esta galería para que no se mareen demasiado, daría bueno ir personalizando el ingreso de las diferentes imágenes.
+
+00:40:48.000 --> 00:41:08.000
+Se entonces vamos a darle al segundo Item una por medio de valdrán. Y E vamos a ver si queremos para el paréntesis y Mg Barra, y hay algunas imágenes ahí.
+
+00:41:08.000 --> 00:41:12.000
+Voy a copiar esto.
+
+00:41:12.000 --> 00:41:21.000
+También en la siguiente. En la tercera imagen no modificamos acá esta imagen.
+
+00:41:21.000 --> 00:41:34.000
+Bien, vamos con otra grit. M Per Mauro Animis.
+
+00:41:34.000 --> 00:41:37.000
+Por ejemplo, cerezas.
+
+00:41:37.000 --> 00:41:45.000
+Vamos a ver, vamos con la.
+
+00:41:45.000 --> 00:41:52.000
+Ehh, La Perry Blueberris.
+
+00:41:52.000 --> 00:42:01.000
+Bien, y acá también lo mismo en las 6. Otra imagen diferente.
+
+00:42:01.000 --> 00:42:16.000
+Siempre. También está bueno que puedan agregar ¿ La sí, por ejemplo, y desde ahí le salen todas las opciones.
+
+00:42:16.000 --> 00:42:17.000
+Lo fe.
+
+00:42:17.000 --> 00:42:18.000
+En cuanto a las imágenes que tienen dentro de esa carpeta medina, me e inserté, pero también otra incógnita, ¿sí?
+
+00:42:18.000 --> 00:42:38.000
+Creo que una consulta. Qué diferencia? Porque la clase pasada hicimos medianamente similar, pero lo hiciste desde el creo que era desde el Html o desde el Css poniendo todo número 1 arriba, o sea como.
+
+00:42:38.000 --> 00:42:39.000
+Exactamente exactamente.
+
+00:42:39.000 --> 00:42:43.000
+Entonces habíamos hecho con griten Play, arias con gritos, con gritan previas. Es otra manera de ir maquetando.
+
+00:42:43.000 --> 00:42:44.000
+Es lo.
+
+00:42:44.000 --> 00:42:52.000
+Por eso les que hay distintas variantes. No es lo mismo que en flecos que teníamos solamente una variante, y nos basamos en eso.
+
+00:42:52.000 --> 00:43:07.000
+Acá. Tenemos varias alternativas. El gritem Play Collins, el Griten play Rose e griten players, que ya es otra cosa distinta que es justamente donde nos basamos para ir generando combinaciones por medio de palabras claves y acá ya estamos trabajando no desde
+
+00:43:07.000 --> 00:43:19.000
+el contenedor, como hacíamos con Green Play Arias, sino desde el elemento en sí, donde a cada elemento le estamos dando la ubicación correspondiente por medio de las grat lines, eso es lo que estamos haciendo aquí.
+
+00:43:19.000 --> 00:43:25.000
+Por por sí misma, digamos.
+
+00:43:25.000 --> 00:43:26.000
+Claro.
+
+00:43:26.000 --> 00:43:27.000
+De la den claro dentro de cada ítem. No lo estamos.
+
+00:43:27.000 --> 00:43:28.000
+Listo!
+
+00:43:28.000 --> 00:43:34.000
+Antiguamente en la clase anterior. Nosotros trabajamos con el contenedor.
+
+00:43:34.000 --> 00:43:37.000
+Sí.
+
+00:43:37.000 --> 00:43:43.000
+Claro, y ahí formaste.
+
+00:43:43.000 --> 00:43:44.000
+No hay tal.
+
+00:43:44.000 --> 00:43:51.000
+En este caso y declaramos Arias y desde aquí veamos claro claro y vamos combinando filas y columnas desde este lugar, y lo único que hacíamos era en cada ítem a agregarle el grit area con el nombre correspondiente para generar ese vínculo desde acá nos
+
+00:43:51.000 --> 00:44:02.000
+basamos en base a esas líneas, decirle donde comience y donde termina otra alternativa más para utilizarlas.
+
+00:44:02.000 --> 00:44:03.000
+Bárbaro bárbaro.
+
+00:44:03.000 --> 00:44:05.000
+Pueden utilizar cualquiera de las 2, así que no, no hay problema.
+
+00:44:05.000 --> 00:44:06.000
+Bueno, ese sería lo no era en Maxi.
+
+00:44:06.000 --> 00:44:15.000
+Dale: Gracias.
+
+00:44:15.000 --> 00:44:23.000
+Vamos a ver qué. Hola. Mira, mi consulto era cuando tú estableciste por primera vez la imagen.
+
+00:44:23.000 --> 00:44:26.000
+Sí, Sí.
+
+00:44:26.000 --> 00:44:33.000
+Sí, Sí.
+
+00:44:33.000 --> 00:44:34.000
+Sí.
+
+00:44:34.000 --> 00:44:45.000
+O sea, la que tiene las frutas y las verduras antes de que tú le pusieras la regla a esta del bernardo Bernabéu Ehh había quedado ya como establecida en la y luego tú le pusiste esa normativa como para ahora mi duda se queda siempre en
+
+00:44:45.000 --> 00:44:54.000
+el centro, siempre tenemos que poner, y por eso o también cambian algo cuando estamos haciendo este. No sé si se tendría la pregunta.
+
+00:44:54.000 --> 00:44:55.000
+Si el tiempo Sí. Sí, Sí, Sí, entendí, ¿ Maxi, con respecto a eso.
+
+00:44:55.000 --> 00:45:07.000
+Ten en cuenta que la imagen en este momento, ¿ Vos vas a tener en algunas ocasiones dependiendo de esa imagen.
+
+00:45:07.000 --> 00:45:11.000
+Vos querés mostrar algún tipo de ubicación en particular.
+
+00:45:11.000 --> 00:45:32.000
+Entonces, vos por el medio del Bagram Position, puedo decirle que que es centrado que que también combinando algún tipo de de de a mí me refiero a algún tipo de de eje en el eje X en el eje por trabajar con Lef con right con Pot eso va a Depender mucho de la
+
+00:45:32.000 --> 00:45:36.000
+imagen. Yo les dejo este valor. Si acá en este caso no va a cambiar mucho.
+
+00:45:36.000 --> 00:45:42.000
+Hay veces que algunas imágenes no cambian en este caso, si no en position con el valor de Center, este sería el resultado.
+
+00:45:42.000 --> 00:45:54.000
+Esta es la ubicación que vamos a tener, pero sí. Pero si yo le aplico como viste recién Edward'und P.
+
+00:45:54.000 --> 00:46:02.000
+Position. Ehh, me toma mal, Se Cen, me está dando esa obligación correspondiente.
+
+00:46:02.000 --> 00:46:08.000
+O fíjate que ahí te varios. Entonces por eso le diese esa propiedad con ese valor.
+
+00:46:08.000 --> 00:46:09.000
+Así que eso va a depender de de la imagen que nosotros creamos mostrar.
+
+00:46:09.000 --> 00:46:13.000
+Hay veces que nos conviene dejarla como está.
+
+00:46:13.000 --> 00:46:22.000
+No agregar el posicionamiento. Hay, y eso lo vamos a ir tratando de ir incorporando desde aquí con estas propiedades.
+
+00:46:22.000 --> 00:46:25.000
+Bien, no sé si quedó claro masi.
+
+00:46:25.000 --> 00:46:30.000
+Sí, Sí, esa parte. Sí, la creo que capaz que no se entendió.
+
+00:46:30.000 --> 00:46:37.000
+Cuando te pregunté, es que entendí la variable de lo que tú me respondiste, pero no sé si eso también sucede cuando estamos haciendo todo este planteo.
+
+00:46:37.000 --> 00:46:48.000
+O sea, le tenemos que poner a cada imagen la regla de back con una.
+
+00:46:48.000 --> 00:46:54.000
+No, no, no con una vez. Ya está. Por ejemplo, acá. Yo lo he incorporado al item en general.
+
+00:46:54.000 --> 00:47:12.000
+Fíjate que acá. Tenemos el punto ítem que va a ser aplicado para todas las La verdad es que desde aquí yo lo único que hice es tratar de estar pisando esta imagen que había seleccionado en particular en el iten de manera genial y el resto solamente le agrega el
+
+00:47:12.000 --> 00:47:16.000
+padrón y Mais. Todos ya tienen el cover.
+
+00:47:16.000 --> 00:47:17.000
+Y también todos tienen el valor en position de manera general.
+
+00:47:17.000 --> 00:47:23.000
+Entonces, de esta forma estamos reutilizando ese código.
+
+00:47:23.000 --> 00:47:24.000
+Muchas gracias.
+
+00:47:24.000 --> 00:47:35.000
+No sé si no nada bien allí, bien y me está quedando ahí la modificación de estas 2 imágenes, Vamos a decirle que tenga el último.
+
+00:47:35.000 --> 00:47:38.000
+Tomaron un emails.
+
+00:47:38.000 --> 00:47:47.000
+Mgge barra zanahorias, y voy a cambiar también la primera.
+
+00:47:47.000 --> 00:47:54.000
+Abraham E. Mays.
+
+00:47:54.000 --> 00:48:02.000
+En a ver frutilla blancas, cebollos. Desde ahí tenemos nuestra galería.
+
+00:48:02.000 --> 00:48:22.000
+Bueno, Bueno, ahora, ya que tenemos nuestra galería, vamos a ir tratando de ir dándole el formato para que se vaya adaptando a diferentes dispositivos, pero antes me gustaría escucharlos hasta acá como vienen si hay algún tipo de consulta si pasan el despejando a todas esas dudas que tengan si
+
+00:48:22.000 --> 00:48:23.000
+Profe. Yo yo tengo una uva.
+
+00:48:23.000 --> 00:48:37.000
+les dejo este espacio Decime en Santiago.
+
+00:48:37.000 --> 00:48:38.000
+Sí, Sí.
+
+00:48:38.000 --> 00:48:48.000
+Ehh dice que en el cese de toda la parte de los ítem nos quedaron todas tipo iguales, solo que con diferentes sigritos y robos, dice en las columnas, ¿
+
+00:48:48.000 --> 00:48:49.000
+No, no, no, no, no, no, te tomaría en este caso.
+
+00:48:49.000 --> 00:48:54.000
+Podemos hacer algo parecido a lo del Ht. Me le viste que hicimos una fórmula que hicimos tipo item punto It en el dólar, por 4, Entonces se podría hacer algo para a B.
+
+00:48:54.000 --> 00:49:15.000
+Por el momento, la verdad. Desconozco algo: el equipo, ¿ Pos te referís a que puedas estar estableciendo el mismo formato porque acá se vuelve a restablecer bastante bastantes propiedades similares distintos selectores por ejemplo, para que case el lector te trate de hacer esto Ehh podíamos poner
+
+00:49:15.000 --> 00:49:17.000
+punto ítem. No sé si no peso. Si después multiplicar.
+
+00:49:17.000 --> 00:49:19.000
+Por ejemplo, por 8 a esto te referís, por ejemplo, no no te lo admites, no te lo admites aquí.
+
+00:49:19.000 --> 00:49:23.000
+Claro claro, eso, o bien.
+
+00:49:23.000 --> 00:49:24.000
+A ver.
+
+00:49:24.000 --> 00:49:43.000
+Eso es lo que pasa con con con M. Tenemos muchas mejoras igualmente, pero quizás investigue un poquito más acerca de estos atajos, tendría que ver un poquito más, pero no por el momento no desconozco algún alguna utilidad acerca de esta criatura de múltiples electores con algunas propiedades
+
+00:49:43.000 --> 00:49:51.000
+que puedas estar declarando. Sería genial, porque optimizaríamos muchísimo tiempo en construcción de código.
+
+00:49:51.000 --> 00:49:53.000
+Claro. Vale, Gracias, por favor.
+
+00:49:53.000 --> 00:50:00.000
+No, no, no a Santiago. El resto chicos. Voy a ver un poquito el chat.
+
+00:50:00.000 --> 00:50:18.000
+Que en cuál sería la propiedad para que la imagen se ate al tamaño de la grilla y cubra Bagroun Sies Ehh podemos darle el valor de de cover el valor de Contain, podemos también trabajar con el uso de porcentajes?
+
+00:50:18.000 --> 00:50:27.000
+Pinceles si podemos estar también trabajando con la incorporación de dimensiones.
+
+00:50:27.000 --> 00:50:47.000
+Bien, Bueno, vamos a pasar con otro tema mientras tanto, ya que no tienen más consultas, vamos a hablar un poquito acerca del móvil Fars como de ahí ha mencionado el móvil Fars es una metodología donde nos vamos a tratar de ir enfocando en un dispositivo.
+
+00:50:47.000 --> 00:50:53.000
+Pequeño yo recomiendo que se enfoquen en un dispositivo de 320 pixeles que podría ser este.
+
+00:50:53.000 --> 00:50:57.000
+Y desde ahí, empezar a trabajar con el resto de las resoluciones.
+
+00:50:57.000 --> 00:51:02.000
+Nosotros, hasta el momento nos hemos enfocado en la pantalla que teníamos enfrente.
+
+00:51:02.000 --> 00:51:09.000
+Así que la idea es tratar de ir optimizando ese diseño por medio de las Mole First.
+
+00:51:09.000 --> 00:51:18.000
+Es una metodología que primero vamos a pensar en ese dispositivo e ir avanzando con el resto de las resoluciones.
+
+00:51:18.000 --> 00:51:47.000
+Esa sería la idea. Acá. Les la similitud acerca de trabajar primero con celular, luego con una tablet y luego con la parte de vista de escritorio, si podría ser una buena recomendación, pero mejor aún sería si lo trabajamos de esta manera vamos a nosotros tenemos Ahora este ven que yo voy a de y va
+
+00:51:47.000 --> 00:51:55.000
+a vamossayar a una resolución, por ejemplo, de 3 20, como les Y acá este mismo diseño, la verdad que no queda para nada.
+
+00:51:55.000 --> 00:52:04.000
+Bien. ¿Por qué? Porque las imágenes son muy pequeñas. Tenemos demasiadas columnas, entonces no se puede apreciar correctamente esta galería.
+
+00:52:04.000 --> 00:52:07.000
+Y la idea es que tratemos de ir modificando esta galería para que se pueda ver correctamente para ese dispositivo.
+
+00:52:07.000 --> 00:52:16.000
+Después, cuando optimicemos esta resolución, podemos ir pasando por la siguiente resolución.
+
+00:52:16.000 --> 00:52:21.000
+De los estándares, Dentro de los estándares como él mencionaba 3, 20 60.
+
+00:52:21.000 --> 00:52:26.000
+Podría ser 4 80, si ustedes van a estar declarando las que necesiten.
+
+00:52:26.000 --> 00:52:46.000
+Con esto quiere decir que que si se ve bien en esa resolución y pasamos, no sé a una resolución de 480 y si es viendo correctamente como nosotros queremos, no hace falta, daremos una media cuerly de forma innecesaria veías que tampoco criamos código basura, y con eso
+
+00:52:46.000 --> 00:52:51.000
+hago menciona que no hace falta que siempre haremos todas las resoluciones.
+
+00:52:51.000 --> 00:52:57.000
+Vamos, a ir agregando las que necesitemos para ir optimizando ese diseño.
+
+00:52:57.000 --> 00:53:02.000
+Bien, entonces yo siempre recomiendo que se manejen a partir de ahora de esta manera.
+
+00:53:02.000 --> 00:53:25.000
+O de manera de la desde la parte superior hacia la parte inferior por diferentes resoluciones, van a ir ampliando. Y van a hacer esto no tratando de ir viendo cómo va quedando el diseño a todo ese sitio si me que se les había presentado al por qué.
+
+00:53:25.000 --> 00:53:53.000
+Que este diseño, acá incluso estoy en una resolución muy 2, 30 y este 38 vamos a dejarla en 3 20 hay más o menos y podremos jugar que el diseño queda de esta manera y a medida que voy vamos a ver que se va a estar reestructurando por ejemplo, acá ya tenemos 2 columnas.
+
+00:53:53.000 --> 00:53:59.000
+Voy avanzando un poco más y acá ya tenemos otro a nosotros.
+
+00:53:59.000 --> 00:54:14.000
+Avanzamos y y acá ya tenemos 4 columnas. Entonces eso es lo que nosotros vamos a tener que ir realizando para ir optimizando y atándolo correctamente a estas resoluciones.
+
+00:54:14.000 --> 00:54:23.000
+Bueno, pues vamos a, se tratar de pasar todo esto y no vamos a enfocar ahora en esa resolución pequeña.
+
+00:54:23.000 --> 00:54:27.000
+Esta es una de las metodologías, pero también existe.
+
+00:54:27.000 --> 00:54:39.000
+El web respondi. Si si hablamos de War responde Simeone, nos enfocamos en la pantalla que tenemos enfrente, ya sea un monitor, 1, incluso la propia ¿
+
+00:54:39.000 --> 00:54:42.000
+La propia Pc una Tablet, un una nod.
+
+00:54:42.000 --> 00:54:43.000
+Y desde ahí empezamos a enfocarnos en ese diseño.
+
+00:54:43.000 --> 00:54:54.000
+Lo que tenemos enfrente, pero sin olvidarnos que también tenemos que optimizar desde una resolución pequeña.
+
+00:54:54.000 --> 00:54:59.000
+Este, poniéndole algún tipo de de valor como 3, 20 piceles.
+
+00:54:59.000 --> 00:55:08.000
+De ahí en adelante hasta entonces hasta llegar a dimensiones superiores, Por ejemplo, trabajar con una resolución más grande.
+
+00:55:08.000 --> 00:55:27.000
+Si yo trabajé desde una tablet, tenemos que tener en cuenta la parte mobile y desde 3 20 en adelante hasta llegar a esta resolución y también de la resolución que tenemos de nuestro dispositivo, por ejemplo, una tablet hasta llegar por ejemplo, a la resolución de un monitor pero hoy en
+
+00:55:27.000 --> 00:55:28.000
+día Hay muchísimos tipos de resoluciones en monitores.
+
+00:55:28.000 --> 00:55:39.000
+Incluso están los ultra guay, los ultra guay, que son gigantes en cuanto al ancho que que hay veces, que parece que son 2 3 monitores.
+
+00:55:39.000 --> 00:55:40.000
+Entonces bueno, es relativo. Nosotros podemos construir una web.
+
+00:55:40.000 --> 00:56:02.000
+Yo siempre recomiendo que lo hagan, por ejemplo, 3 20 a 1 000 a 1 900 Eso sería una buena adaptación que podríamos ir generando para estos dispositivos que comúnmente ingresan, pero hacemos mucho en la parte mobile ya que desde ahí hay muchos usuarios que ingresan y
+
+00:56:02.000 --> 00:56:23.000
+Visualizan nuestros sitios? También, sí, sin olvidarnos también el resto del dispositivo Tablet Y pese a escritorio, Así que esa sería la idea con respecto a cuál yo les recomiendo un poco más el tema del móvil fars el war responde saint no quiere decir que esté
+
+00:56:23.000 --> 00:56:42.000
+mal. Si lo hacemos bien correctamente, optimizamos cada una de esas resoluciones, no ven inconvenientes, Pero yo yo recomiendo más que nada el tema del Mod, fr porque es mucho más claro mucho más transparente a la hora de estar codificando lo empezamos de esa resolución y de ahí en adelante ya tenemos nuestro diseño.
+
+00:56:42.000 --> 00:56:50.000
+Vamos a basarnos en esta resolución tan pequeña que se va a ver bien en cualquier dispositivo, partiendo desde ahí.
+
+00:56:50.000 --> 00:56:54.000
+Ahora, Sí, Ahora, si yo diseño desde, por ejemplo, una Tablet.
+
+00:56:54.000 --> 00:56:58.000
+Quizás cuando pasa la parte mobile. Y si diseño se me rompa, me aparezca el Sroll tenga que estar haciendo.
+
+00:56:58.000 --> 00:57:07.000
+Escroleos o haciendo su para ir viendo algún contenido.
+
+00:57:07.000 --> 00:57:26.000
+Entonces tiene esa ventaja de saber de que que si lo vemos en un celular lo podemos ver en cualquier dispositivo, en cambio, en una tablet hay veces que puede tener algún tipo de variante que esté afectando a la visualización en la parte mobile por ejemplo, así que es sumamente recomendado el tema de
+
+00:57:26.000 --> 00:57:49.000
+Mole Fars, a quien vas a vamos a agregar con el uso de las mediacueris agriamos arroba media a la screen al También es agregamos también que va a ser un mínimo de ancho partiendo un mínimo por ejemplo, Me.
+
+00:57:49.000 --> 00:57:55.000
+Más de 320 a ver, agregó las llaves.
+
+00:57:55.000 --> 00:57:59.000
+Y desde ahí empezamos a trabajar con diferentes electores. Esta es la regla.
+
+00:57:59.000 --> 00:58:07.000
+Si siempre lo reclamamos generalmente al final y vamos a mencionar nuestros electores correspondientes para ir atándolo.
+
+00:58:07.000 --> 00:58:32.000
+En esta visualización No, Si yo voy a una resolución de 3, lo y, por ejemplo, es que se vengan 1 debajo del otro en entonces, este formato que le he dado yo yo lo voy a visualizar para alguna determinada en qué determinada resolución se ve correctamente por ejemplo, vamos a
+
+00:58:32.000 --> 00:58:56.000
+decirle que a la ahora 600 no un poquito más. Voy a decirle más o menos en 7 68, es una una 1 de los que voy a hacer. Así que voy a la parte inferior y debajo voy a en la ciudad de Roma.
+
+00:58:56.000 --> 00:59:03.000
+En la ciudad de Only.
+
+00:59:03.000 --> 00:59:10.000
+Ahí estamos en y mi condición, que va a ser partiendo un mínimo de ancho.
+
+00:59:10.000 --> 00:59:14.000
+Meaningful beauty.
+
+00:59:14.000 --> 00:59:19.000
+De 768 pixeles. Abro las llaves.
+
+00:59:19.000 --> 00:59:31.000
+Quiero que tenga esta esta visualización. Es de formato, Entonces, todo este código que acabamos de el ingreso de todos los ítems.
+
+00:59:31.000 --> 00:59:35.000
+Sí voy a llamar a todos los ítems, hijos, copio.
+
+00:59:35.000 --> 00:59:43.000
+Todo esto lo elimino desde aquí, y lo mencionamos dentro de este arroba.
+
+00:59:43.000 --> 00:59:47.000
+Media, Pegamos perfecto. Voy a guardar.
+
+00:59:47.000 --> 00:59:54.000
+Esto es lo que vamos a tener en esa resolución, en particular en 7 68 partiendo ahí en adelante.
+
+00:59:54.000 --> 01:00:01.000
+Pero ahí estamos viendo el formato que vamos a tener es de 4 columnas muy bien.
+
+01:00:01.000 --> 01:00:03.000
+Entonces es.
+
+01:00:03.000 --> 01:00:26.000
+Yo lo he mencionado en el punto en el punto galería, donde teníamos el grillete play colons y el grited Play Rose, con estas filas y columnas de la vida, entonces eso lo voy a declarar desde aquí punto a las de declaró un grito en
+
+01:00:26.000 --> 01:00:35.000
+de 4 filas le pone un rit, 4 filas de un F R. Cada 1.
+
+01:00:35.000 --> 01:00:42.000
+Y luego, en la parte inferior podemos gri templete. Rose.
+
+01:00:42.000 --> 01:00:52.000
+También con un rit de 3 filas, 200 pixeles es lo mismo que habíamos declarado para esta resolución.
+
+01:00:52.000 --> 01:01:00.000
+Lo vamos a ver con este tipo de formato. Bien. Y esto lo voy a estar eliminando en realidad lo voy a modificar.
+
+01:01:00.000 --> 01:01:23.000
+Yo quiero que en esta resolución de manera genial, si me baso en 3 20 vamos a ver, quiero que una sola columna o sea, que va a tener solamente un Ifer, bien, entonces ahí se van a ver las imágenes una abajo de la otra y de la y en cuanto a la cantidad de filas bueno, acá
+
+01:01:23.000 --> 01:01:44.000
+estoy estableciendo solamente 3, pero si sabemos que tengo o hecho elementos, vamos a tener 8 filas, ya que un elemento se va a estar viendo una debajo del otro, entonces voy a poner 8 filas de 200 pixeles y ahí se va cambiando no ahí va a tener el ingreso de todos estos tamaños también
+
+01:01:44.000 --> 01:02:08.000
+tenemos que estar modificando el tema del aspecto que que tenemos en nuestro contenedor, ya que no se ve por completo, entonces puedo ponerle o un mínimo de altura o el valor de auto si ponemos mínimo de altura me respeta sus 600 y en este caso va a estar agrandándose dependiendo del tamaño
+
+01:02:08.000 --> 01:02:18.000
+que tengan nuestros elementos. Perfecto: Nos está faltando a las imágenes que las imágenes también las y en
+
+01:02:18.000 --> 01:02:28.000
+Entonces para llamarlos también. Voy a establecer desde aquí.
+
+01:02:28.000 --> 01:02:33.000
+A todos estos elementos, pero voy a borrar el tema: The Great colon y Green trop, porque no quiero darle ese formato.
+
+01:02:33.000 --> 01:02:46.000
+Solamente quiero que tengan el ingreso de esa imagen. Entonces declaro a cada 1 de ellos y le doy una imagen distinta de manera general, no dentro de las bien.
+
+01:02:46.000 --> 01:02:52.000
+Eso es lo que vamos a hacer. Voy a eliminar esto.
+
+01:02:52.000 --> 01:02:55.000
+Ahí está.
+
+01:02:55.000 --> 01:03:01.000
+Bien ahí se va enviando un poquito. Tenemos que eliminar esto también.
+
+01:03:01.000 --> 01:03:05.000
+Si no se va a romper todo el diseño, es fundamental.
+
+01:03:05.000 --> 01:03:11.000
+Animamos esto esto también.
+
+01:03:11.000 --> 01:03:18.000
+Bien nos queda estos 2 últimos elementos.
+
+01:03:18.000 --> 01:03:32.000
+Perfecto. Ahí ya tenemos nuestro formato, pero tenemos que ver como les había mencionado, de una resolución de 3 20, lo reduzco hasta 3 20.
+
+01:03:32.000 --> 01:03:40.000
+Bien Y este es otro formato. Genial. Ahí tenemos nuestro diseño, la verdad, la verdad que se ve.
+
+01:03:40.000 --> 01:03:54.000
+Así que lo vamos a dejar ahí. Lo que también vamos a tener en cuenta es el roceteo, porque ahí me aparecen los espacios a la parte izquierda en la parte superior, la parte derecha también.
+
+01:03:54.000 --> 01:04:03.000
+Entonces de manera genial. También aquí hacemos el receteo aplico Marshall para el valor de 0 y también Pin con el valor de 0.
+
+01:04:03.000 --> 01:04:22.000
+Y a su vez, si en algún momento llego a utilizar el tema en los bordes y demás, aplico el Bols Sazing, con el valor del hervor de voz para que tenga en cuenta la altura y el ancho y y si agrego el tema de los de los pinins o los
+
+01:04:22.000 --> 01:04:27.000
+bordes se se traten de reducir el contenido y se incluyan de esta manera.
+
+01:04:27.000 --> 01:04:41.000
+Bien. Este es el resultado hasta el momento que si quieren, también, para que quede mejor, le voy a estar estableciendo un un un título, un H 2 en la parte html que diga galería.
+
+01:04:41.000 --> 01:04:45.000
+Bien en la parte de estilo están bien, Ya vamos al H.
+
+01:04:45.000 --> 01:04:53.000
+2 las llaves. Le aplicamos un test line con el valor de Center.
+
+01:04:53.000 --> 01:05:01.000
+Y además de hoy, voy a agregar un color de fondo, un barran color que sea.
+
+01:05:01.000 --> 01:05:07.000
+Y un color de texto que sea blanco.
+
+01:05:07.000 --> 01:05:14.000
+Bien anita y, además, le vamos a aplicar un poco de paine de 20 pixeles perfecto.
+
+01:05:14.000 --> 01:05:27.000
+Ya tenemos. El diseño. Bueno, a medida que vamos a ir avanzando en resoluciones amplio, amplio, vamos a ver que en algún momento queremos darle otro formato.
+
+01:05:27.000 --> 01:05:33.000
+A mí por ya no me gusta como se está viendo en otras resoluciones.
+
+01:05:33.000 --> 01:05:39.000
+Entonces vamos a agregar el uso de la ropa media.
+
+01:05:39.000 --> 01:05:53.000
+Si con hicimos acá y le decimos que tenga de visualización 3 20, una columna está más que bien, pero no, pero ¿
+
+01:05:53.000 --> 01:06:02.000
+Quizás en otra. No sé 4. Siramos darle otro formato, un formato que ¿
+
+01:06:02.000 --> 01:06:24.000
+2 columnas, por ejemplo, en ese momento. Entonces, desde ahí llamamos a nuestro contenedor, que es el punto galería. Y mediante la incorporación de este grite en play collons vamos a decirle que tenga 2 columnas templete con un fr.
+
+01:06:24.000 --> 01:06:29.000
+Y un F. Y de esa forma ya vamos a ver una modificación.
+
+01:06:29.000 --> 01:06:38.000
+Ven partiendo de acá con solamente agregar esta propiedad en esta resolución vamos a ver esas 2 columnas.
+
+01:06:38.000 --> 01:06:50.000
+Así es simple. Hemos reestructurado nuestro sitio, Solamente agregamos la media cuerda y con esa tratamos de pisar esa propiedad que es grite en play offs.
+
+01:06:50.000 --> 01:07:11.000
+Y le damos otro aspecto Pero si bien en la parte inferior vamos a ver que me queda mucho espacio vacío, esto se debe a a que habíamos esas 8 columnas en para que no tengamos esas 8 filas para que no tengamos este espacio también declaró griten
+
+01:07:11.000 --> 01:07:17.000
+play-rose con esa cantidad de filas que quiero estar mostrando.
+
+01:07:17.000 --> 01:07:24.000
+Si vemos, tengo una, 2, 3, 4 filas. Acá están con ocupando mis imágenes.
+
+01:07:24.000 --> 01:07:33.000
+Entonces podemos decirle que tenga el ingreso, repite de 4 filas con el valor también de 200 pixeles.
+
+01:07:33.000 --> 01:07:39.000
+Bien. Y este es el resultado, ya no se ve más Ese espacio en la parte inferior.
+
+01:07:39.000 --> 01:07:45.000
+Ya lo hemos optimizado con estas 2 propiedades, y así vamos a hacer con el resto de las resoluciones.
+
+01:07:45.000 --> 01:07:59.000
+Por ejemplo, llego a otra resolución más, por ejemplo, la 600 a A.
+
+01:07:59.000 --> 01:08:10.000
+Ponemos Andy Scream. Ah, el espacio es fundamental cuando ustedes escriban todos juntos, le va a dar error.
+
+01:08:10.000 --> 01:08:20.000
+Así que traten de recordar de que siempre después del Anne, va un espacio, y ahí mi condición, que va a ser un mínimo de ancho.
+
+01:08:20.000 --> 01:08:29.000
+Donde voy a establecerle que tenga 600 pixeles partiendo desde aquí, quiero que tenga 3 columnas entonces llamo al punto galería.
+
+01:08:29.000 --> 01:08:50.000
+También agregó las declaró grita en Play Connors y le indico que tenga, por ejemplo, 3 columnas, un Fr y ahí ya en esta resolución de 600 podremos ver que se ubican de esta manera pero acá tenemos algunos espacios y la idea es tratar de ir
+
+01:08:50.000 --> 01:09:13.000
+optimizando también esto. Así que, bueno, hasta aquí no sé si hay consultas, hay algo que que todavía no hayan comprendido. Voy a ver un poquito el chat.
+
+01:09:13.000 --> 01:09:18.000
+Bien en se entendió hasta ahora, chicos, vienen bien, más o menos te gusta.
+
+01:09:18.000 --> 01:09:20.000
+Si yo tengo una consulta.
+
+01:09:20.000 --> 01:09:27.000
+Decime, Juan.
+
+01:09:27.000 --> 01:09:28.000
+Y si.
+
+01:09:28.000 --> 01:09:30.000
+Este ahí cuando nosotros hicimos la primer parte, vo hiciste a que que no, que no.
+
+01:09:30.000 --> 01:09:34.000
+A la resolución que tenía en la pantalla en frente mía, Ehh.
+
+01:09:34.000 --> 01:09:48.000
+O sea, lo que cortaste que después pegaste en.
+
+01:09:48.000 --> 01:09:49.000
+Y entre.
+
+01:09:49.000 --> 01:09:50.000
+No, No, en realidad lo inserté en 7, 68 en 7 68 fijaste que tengo todas estas está bien.
+
+01:09:50.000 --> 01:09:53.000
+Sí, sí, pero lo sacaste del de del principal, por así decirlo.
+
+01:09:53.000 --> 01:10:12.000
+En la claro. Y si lo nosotros no habíamos trabajado con las medias polis y lo hemos insertado. Y lo hemos después de 7 68 pixeles en este Break Point.
+
+01:10:12.000 --> 01:10:13.000
+Claro.
+
+01:10:13.000 --> 01:10:15.000
+Está claro, claro, O sea, que claro, cuando tenga mínimo ese esos píxeles va a aparecer con ese formato con el que habíamos originado.
+
+01:10:15.000 --> 01:10:26.000
+En la parte del navegador, cuando haces f 2 o botón derecho y presionar vos tenés.
+
+01:10:26.000 --> 01:10:27.000
+En ese.
+
+01:10:27.000 --> 01:10:39.000
+Un dispositivo este que está acá. En el vos te vas de dependiendo de la resolución que tengas en la parte superior en el ancho, desde ahí, vos vas a visualizar cómo te va quedando el contenido cómo queda la estructura de ese sitio y tenés que estar tratando de
+
+01:10:39.000 --> 01:10:40.000
+optimizarlo para que quede la mejor manera posible.
+
+01:10:40.000 --> 01:10:50.000
+Estéticamente en cuanto al maquetado, tener en cuenta el tamaño de los textos, contenedores y de más detalles.
+
+01:10:50.000 --> 01:10:51.000
+Se sentían.
+
+01:10:51.000 --> 01:10:54.000
+Está bien. Sí, Sí.
+
+01:10:54.000 --> 01:10:55.000
+Genial. Juan. No sé si me hay más. Fede.
+
+01:10:55.000 --> 01:11:01.000
+Profe: Sí, en 3 20. ¿Qué valores pusiste?
+
+01:11:01.000 --> 01:11:04.000
+No, no puse nada. Al final no puse nada.
+
+01:11:04.000 --> 01:11:16.000
+Lo dejamos de manera general con todo lo que estuvimos trabajando desde aquí entonces, desde 0 en adelante hasta los 4 80 pixeles vamos a ver el mismo aspecto.
+
+01:11:16.000 --> 01:11:25.000
+Fíjate comienzo desde aquí. Vamos ampliando y recién en los 480 pixeles.
+
+01:11:25.000 --> 01:11:26.000
+Ahí vemos el cambio de la.
+
+01:11:26.000 --> 01:11:30.000
+Ah, bien, bien, venme, listo. Gracias.
+
+01:11:30.000 --> 01:11:36.000
+Si quieren hacerlo antes, yo para no ir trabajando con muchas resoluciones.
+
+01:11:36.000 --> 01:11:49.000
+Lo pueden hacer Bien, eso depende cómo cómo les quede el el vamos a tener diferentes diseños diferentes formas de ir viendo nuestro manguitado.
+
+01:11:49.000 --> 01:11:54.000
+Entonces ustedes van a ir seleccionando los break point que necesiten para ir optimizándolos.
+
+01:11:54.000 --> 01:12:02.000
+Bien el resto de hay hay alguna guía, pero no sé profe de los valores que van variando.
+
+01:12:02.000 --> 01:12:10.000
+Las distintas resoluciones. Si les muestro también que en las.
+
+01:12:10.000 --> 01:12:16.000
+A ver si lo tenemos. Acá los brave Points.
+
+01:12:16.000 --> 01:12:22.000
+No encuentro si es en esta.
+
+01:12:22.000 --> 01:12:26.000
+A gas. Estos son todos los dispositivos, generalmente 3.
+
+01:12:26.000 --> 01:12:27.000
+20 para un celular pequeño. Cuatro 80, quizás un formato un poco más grande.
+
+01:12:27.000 --> 01:12:41.000
+600 ya estamos hablando, quizás una tablet pequeña. Ehh, pon también a hablar de 7 68 que podemos mencionar una tablet más grande.
+
+01:12:41.000 --> 01:12:47.000
+Incluso hay algunos.
+
+01:12:47.000 --> 01:12:54.000
+Ehh. Dispositivos como Nettus que puedes hablar ya de una notebook, una pequeña notebook 1 000.
+
+01:12:54.000 --> 01:13:00.000
+200 también lo mismo. Podemos hablar ya de valores más más grandes en cuanto a monitores.
+
+01:13:00.000 --> 01:13:07.000
+Si hay muchísimos, incluso sepan que hay personas hay usuarios que ingresan.
+
+01:13:07.000 --> 01:13:14.000
+Desde los smartphones. Así que imagínense que si tenemos un televisor, 4.
+
+01:13:14.000 --> 01:13:19.000
+K va a tener mucha resolución en cuanto al ancho.
+
+01:13:19.000 --> 01:13:26.000
+Son 2, pero ya son mínimos, No son tantos los usuarios que ingresan de estos dispositivos.
+
+01:13:26.000 --> 01:13:31.000
+La gran mayoría para hablar de porcentajes más del 85.
+
+01:13:31.000 --> 01:13:35.000
+Se dice que ingresa desde un celular Es un celular y tablet.
+
+01:13:35.000 --> 01:13:43.000
+Luego el restante ingresa desde la Pc y hay pocos usuarios que ingresan desde los Smart Vip, por ejemplo.
+
+01:13:43.000 --> 01:13:53.000
+Así que eso sería más la estadística que que tengo como para compartirles.
+
+01:13:53.000 --> 01:13:54.000
+Sí, mariana.
+
+01:13:54.000 --> 01:13:59.000
+Una consulta. Entonces, profe En entonces yo haría mi página de lo X, cosa.
+
+01:13:59.000 --> 01:14:00.000
+Sí.
+
+01:14:00.000 --> 01:14:02.000
+Hago todo mi Css: Hago todo lo que hago entonces y ahí pondría un rama media arranco con 3, 20 copio, pego.
+
+01:14:02.000 --> 01:14:08.000
+Ahí hago las modificaciones que tengo que hacer, y así, en adelante, siempre copiando y pegando lo que yo hice.
+
+01:14:08.000 --> 01:14:19.000
+Primero. En principio no estoy confundido. No sé si me expliqué.
+
+01:14:19.000 --> 01:14:20.000
+Sí.
+
+01:14:20.000 --> 01:14:21.000
+No, no Pues fíjate que Acá tenemos. Son varias líneas de código.
+
+01:14:21.000 --> 01:14:22.000
+Claro.
+
+01:14:22.000 --> 01:14:29.000
+Sí. Vos: Fíjate que tenés la parte de la galería de manera genial, vas a tener el Item acá.
+
+01:14:29.000 --> 01:14:42.000
+Claro.
+
+01:14:42.000 --> 01:14:43.000
+Pero nada más.
+
+01:14:43.000 --> 01:14:46.000
+Estas imágenes. Pero pero después, cuando vamos a la parte de las media cuares, Fíjate que solamente en 480 agregué mi selector de punto galería y modifique la estructura de las columnas y de las filas le dije que tenga 2 columnas, y y después en la
+
+01:14:46.000 --> 01:14:47.000
+Está bien.
+
+01:14:47.000 --> 01:14:51.000
+otra y hice lo mismo con el ingreso de columnas y la cantidad.
+
+01:14:51.000 --> 01:14:53.000
+Ah, claro, si no sería mucho código Caray. Ahí ahí entendí, entendí lo que estaba haciendo.
+
+01:14:53.000 --> 01:15:00.000
+Claro, estarías claro, esta es la idea de tratar de ir optimizando también todo esto.
+
+01:15:00.000 --> 01:15:04.000
+Claro.
+
+01:15:04.000 --> 01:15:05.000
+Claro que sí.
+
+01:15:05.000 --> 01:15:10.000
+Estamos pisando por el tema de la cascada. Sí, Entonces, a tener en cuenta que lo deben declarar también en la parte inferior a me acuerdo.
+
+01:15:10.000 --> 01:15:12.000
+Da. Muchas gracias.
+
+01:15:12.000 --> 01:15:20.000
+No nada. Mariano, Jorge, no sé si tenías otra pregunta.
+
+01:15:20.000 --> 01:15:27.000
+No el reto. Bien, Bueno, vamos a tratar de darles otro formato, pero eso lo vamos a hacer ahora.
+
+01:15:27.000 --> 01:15:30.000
+Dentro de 5 min les voy a dar un brake de de descanso.
+
+01:15:30.000 --> 01:15:49.000
+Si tienen que ir al baño o tomar algo bueno, Les aprovechen estos 5 minutitos y después continuamos ya con la segunda parte, donde vamos a ir optimizando esta de la si no me equivoco y vamos a trabajar también con el ingreso de flecos así que vamos a ir trabajando
+
+01:15:49.000 --> 01:16:19.000
+con con todo esto y ir finalizando este pequeño proyecto, 5 minutitos que volvemos chicos.
+
+01:21:49.000 --> 01:22:04.000
+M mostrame por favor la parte del resultado del navegador y el código también.
+
+01:22:04.000 --> 01:22:34.000
+Creo que compartiste solamente una pantalla. Por eso estoy viendo solamente tu código a ver.
+
+01:22:34.000 --> 01:22:48.000
+Ahora sí haré aceptarlas oyendo.
+
+01:22:48.000 --> 01:23:02.000
+Ahí está. No podía desmotelar. Ves cuando yo bajo de los 4 80, ves ahí ahí está bien. Pero cuando bajo se me el como que se me rompe la página en se me pone una columna sola.
+
+01:23:02.000 --> 01:23:10.000
+En el tema de hace una cosa: manejate por el tema de las flechas que hay en la parte del ancho en la parte superior.
+
+01:23:10.000 --> 01:23:16.000
+Sí, Sí.
+
+01:23:16.000 --> 01:23:17.000
+Acá.
+
+01:23:17.000 --> 01:23:25.000
+Fíjate arriba arriba arriba arriba arriba, arriba, no en la arriba de todo, estoy más arriba todavía.
+
+01:23:25.000 --> 01:23:26.000
+Ah, sí.
+
+01:23:26.000 --> 01:23:27.000
+No. Ay, Fíjate que dice 4. Diecisiete arriba arriba de todo.
+
+01:23:27.000 --> 01:23:32.000
+Ahí a la derecha, tenés unas flechitas que van hacia arriba desde abajo.
+
+01:23:32.000 --> 01:23:43.000
+Entonces, vos manejate con las flechitas a ver donde está ese quiebre, ese punto de quiebre donde te muestra el cambio a no.
+
+01:23:43.000 --> 01:23:58.000
+Supuestamente en 4 80. Todavía te creo que en 479, hasta 4 80, Ahí está el cambio, porque hoy le dijiste que tengo en 4 80 le dijiste que tenía 2 columnas.
+
+01:23:58.000 --> 01:23:59.000
+Sí.
+
+01:23:59.000 --> 01:24:01.000
+Entonces te está respetando eso y fíjate que pasaste 4.
+
+01:24:01.000 --> 01:24:04.000
+Ch: 80 y te respetarás las las 2. Pero en la parte de general, vos le habrás indicado que tengas 4 columnas entonces desde ahí.
+
+01:24:04.000 --> 01:24:11.000
+Claro, a ver.
+
+01:24:11.000 --> 01:24:21.000
+De manera genial. Le tenés que estar solamente una columna, por ejemplo, ya que vamos a trabajar con la parte mogui ahí en ese lugar, le pones.
+
+01:24:21.000 --> 01:24:26.000
+¡Ay! Entonces pon acá. Tendría que poner un frigorífico, un F.
+
+01:24:26.000 --> 01:24:31.000
+Claro, y fue de reo, le hace el valor de, bueno.
+
+01:24:31.000 --> 01:24:34.000
+Fabián y acá en de de.
+
+01:24:34.000 --> 01:24:48.000
+Por ahí va a cambiar, porque tienes que tener en cuenta que tienes 8 elementos que son 2 8 imágenes, entonces tienen que ser 8 filas.
+
+01:24:48.000 --> 01:24:49.000
+Sí, hay.
+
+01:24:49.000 --> 01:24:55.000
+8 filas. Ok, pongo 8 a la y la y los píxeles están bien.
+
+01:24:55.000 --> 01:24:56.000
+Ok.
+
+01:24:56.000 --> 01:24:58.000
+Eso lo vas a ir manejando voz, te vas a dar cuenta si querés achicarlo, agrandarlo.
+
+01:24:58.000 --> 01:24:59.000
+A ver ahí.
+
+01:24:59.000 --> 01:25:01.000
+En principio en principio es ¿ Aita.
+
+01:25:01.000 --> 01:25:06.000
+Ahí está. Ay Thayita. Gracias.
+
+01:25:06.000 --> 01:25:10.000
+Ahí hasta esa resolución lo vas a ver de ese modo.
+
+01:25:10.000 --> 01:25:16.000
+Después, cuando ya grandes. Fíjate que ahí tienes en 2 columnas.
+
+01:25:16.000 --> 01:25:17.000
+Se ahí está. Muchas gracias.
+
+01:25:17.000 --> 01:25:47.000
+St: Así que bueno, eso sería el aire. ¿No?
+
+01:25:58.000 --> 01:26:01.000
+Bien, chicos, vamos, a ir ya continuando con la segunda parte.
+
+01:26:01.000 --> 01:26:09.000
+Así que vamos a enfocarnos en este diseño de 600 pixeles, ¿
+
+01:26:09.000 --> 01:26:12.000
+Ustedes pueden. Pueden. Vuelvo a repetir: Ezequiel.
+
+01:26:12.000 --> 01:26:14.000
+Pueden estar aplicando la cantidad de pisiles que quieran determinada resolución en cada breakpoint que ustedes soliciten.
+
+01:26:14.000 --> 01:26:21.000
+Pero lo ideal es siempre trabajar con los estándares.
+
+01:26:21.000 --> 01:26:30.000
+Si bien que ese estándar no se llega a cubrir con sus necesidades recién ahí utilizan determinada resolución.
+
+01:26:30.000 --> 01:26:52.000
+Por ejemplo, habría puesto quizás 400 si, por más que no esté dentro de los estándares más utilizados, lo podemos aplicar sin ningún tipo de inconvenientes, bien y en la resolución de 600 pixeles aumento desde podemos ver que te tengo 3 columnas.
+
+01:26:52.000 --> 01:26:59.000
+Pero el que tengo no me gusta porque me está quedando.
+
+01:26:59.000 --> 01:27:25.000
+Ehh: Entonces la idea es darle otro formato distinto. Ya que trabajamos con el ingreso de Staglil lines por medio Gris Row y Greg Collum, vamos a mencionar cada elemento venció en agrego las y quiero estar ocupando los columnas en la.
+
+01:27:25.000 --> 01:27:30.000
+En Grey Collum. Establezco que comience la primera línea y termine en la tercera.
+
+01:27:30.000 --> 01:27:37.000
+Entonces voy a poner 1 o barra 3 De esta forma va a estar generando este espacio.
+
+01:27:37.000 --> 01:27:51.000
+En en cuanto a las de las filas, va a comenzar de la primera a la segunda, vamos a una barra, 2.
+
+01:27:51.000 --> 01:27:58.000
+Bien, no va a cambiar nada. Luego el iten 3, meita en 2, perdón.
+
+01:27:58.000 --> 01:28:01.000
+Lo vamos a dejar en el mismo lugar. Aplicamos Green.
+
+01:28:01.000 --> 01:28:11.000
+Row: Perdón. Así mantenemos. El Comienza en la tercera y termina en la cuarta.
+
+01:28:11.000 --> 01:28:20.000
+Queda en el mismo lugar y en cuanto a las comienza la primera y termina en la segunda.
+
+01:28:20.000 --> 01:28:34.000
+Eso queda exactamente igual ya en el siguiente también le vamos a decir que Kent, exactamente en el mismo lugar, esa imagen de papas, ponemos img e iten 3.
+
+01:28:34.000 --> 01:28:39.000
+Es un tema de donde establezco que comience desde la primera.
+
+01:28:39.000 --> 01:28:46.000
+La segunda 1 barra 2, y luego también con Row.
+
+01:28:46.000 --> 01:28:49.000
+Establezco que comience la segunda línea de las filas hacia la tercera.
+
+01:28:49.000 --> 01:28:53.000
+2, Barra, 3.
+
+01:28:53.000 --> 01:29:06.000
+No hay. Pasamos ya con el Item. Cuatro siempre estoy trabajando, como verán, dentro de esta mediacuea del mínimo de 600 punto.
+
+01:29:06.000 --> 01:29:13.000
+Yten 4. Abremos las llaves y establezco que tenga un grito en Play.
+
+01:29:13.000 --> 01:29:17.000
+Un grito. Col.
+
+01:29:17.000 --> 01:29:18.000
+Donde este elemento va a comenzar de la segunda a la tercera, a la cuarta.
+
+01:29:18.000 --> 01:29:45.000
+Si 2, barra 4, así también genera otra combinación y hacemos este que estamos viendo de una imagen que va a ocupar el doble de espacio de columnas y vamos intercalando de esta manera el siguiente elemento el item 5 también vamos a hacer lo mismo quiero que ocupe el doble en cuanto de las
+
+01:29:45.000 --> 01:29:56.000
+columnas. Acá me faltó perdón el tema de Grete Templay, el grueso, Dos barra 3. También.
+
+01:29:56.000 --> 01:30:01.000
+Y te vamos a decirle que tenga.
+
+01:30:01.000 --> 01:30:14.000
+Desde aquí. El espacio de Barra, Tres: Uno: Barra. Tres: guardamos.
+
+01:30:14.000 --> 01:30:31.000
+Y ahí se ve esta combinación perfecto. Vamos a indicarle también, mediante Gry Row Ankaya comienza en la tercera línea y termine en la cuarta línea de las filas.
+
+01:30:31.000 --> 01:30:38.000
+Bien, pasamos al siguiente elemento: el Itten 6, que va a quedar exactamente en el mismo lugar.
+
+01:30:38.000 --> 01:31:06.000
+Pero igual lo definimos porque podemos estar rompiendo todo nuestro código cuando trabajemos con este mismo formato. Si yo trabajamos en otra resolución, puede presentar inconvenientes, bien y en cuanto a las columnas comienza desde la tercera hacia la cuarta en cuanto a filas desde la tercera hacia la cuarta también.
+
+01:31:06.000 --> 01:31:10.000
+El item. Siete.
+
+01:31:10.000 --> 01:31:19.000
+Comienza en la primera columna en la primera línea de y termina en la segunda.
+
+01:31:19.000 --> 01:31:26.000
+Con respecto a com. a Cara Colón, Perdón.
+
+01:31:26.000 --> 01:31:49.000
+Con respecto a las comienza en la cuarta y termina en la quinta y éite en 8 ahí. Quiero que tenga el doble del espacio en cuanto al ancho. En entonces en colon comienza en la segunda barra e 4 2 barra 4.
+
+01:31:49.000 --> 01:31:55.000
+Y en este momento y gried este desde la cuarta a la Quinta Harina.
+
+01:31:55.000 --> 01:32:02.000
+Perfecto. Ya nos quedó todo nuestro diseño de esta forma. Ahí se puede.
+
+01:32:02.000 --> 01:32:10.000
+Es genial y estamos utilizando también el mismo formato en cuanto a grited play, Rose y a griten Pey Rock E.
+
+01:32:10.000 --> 01:32:22.000
+Colums, porque cada una de ellas también se está manteniendo el formato de estas 3 columnas y de las 4 filas que hemos declarado.
+
+01:32:22.000 --> 01:32:43.000
+Si ven en la resolución de 600 pixeles, yo había aplicado el valor de griten, plate Columbus, el valor de Gritam Pey Rose de 4 filas y eso mismo se está teniendo en cuenta en la resolución de 600 se dan cuenta no porque cada una de ellas
+
+01:32:43.000 --> 01:32:47.000
+por más que no lo declaraban. La resolución de 600 pixeles.
+
+01:32:47.000 --> 01:32:55.000
+Como tenemos un mínimo de ancho, de 4 80. De ahí en adelante me va a estar respetando esta propiedad.
+
+01:32:55.000 --> 01:33:01.000
+Salvo que yo vuelva a establecer esa misma propiedad con otro valor distinto.
+
+01:33:01.000 --> 01:33:02.000
+La verdad es que entonces de este podemos conservar ciertas características sin la necesidad de estar escribiendo demasiado código.
+
+01:33:02.000 --> 01:33:15.000
+De forma innecesaria. Así que, bueno, acá estamos. Tenemos también otra resolución.
+
+01:33:15.000 --> 01:33:21.000
+Debajo, que era la de 7, donde voy a ir. Aumentamos.
+
+01:33:21.000 --> 01:33:27.000
+Aumentamos También les quiero mencionar que a la derecha tenemos el la visualización.
+
+01:33:27.000 --> 01:33:31.000
+No acá tengo 95. El 100 por 100 sería como se ve.
+
+01:33:31.000 --> 01:33:40.000
+Pero también podemos reducir o agrandar. Eso. Depende de los requisitos que tengamos bien.
+
+01:33:40.000 --> 01:33:45.000
+Bien. Yo llevo a pasar los 4 68, y no.
+
+01:33:45.000 --> 01:33:53.000
+Y ahí con con estas 4 columnas. Si yo en ningún momento establecí esto, quiero que lo vean.
+
+01:33:53.000 --> 01:33:57.000
+Voy a comentar.
+
+01:33:57.000 --> 01:34:08.000
+Vamos a comentar todo esto. Vamos a ver que presentamos ya inconvenientes.
+
+01:34:08.000 --> 01:34:17.000
+Podemos visualizar que que tengo estas 3 3 filas. Perdón, 3 columnas.
+
+01:34:17.000 --> 01:34:24.000
+Vamos a también a?
+
+01:34:24.000 --> 01:34:27.000
+Voy a comentarlo.
+
+01:34:27.000 --> 01:34:30.000
+Ahora, sí.
+
+01:34:30.000 --> 01:34:41.000
+Venía. Acá. Vamos a ver que se está manteniendo, como verán, el formato que les había y indicado previamente en la resolución anterior.
+
+01:34:41.000 --> 01:35:00.000
+En el mundo. Entonces, para que no nos pase esto, también podemos estar estableciendo desde aquí el ingreso de un este de otra condición por medio del operador An decirle que tengo un máximo mira este formato que hemos trabajado con el tema de green College Road que tenga este ¿
+
+01:35:00.000 --> 01:35:28.000
+Este esta brecha de 600 pixeles, por ejemplo, hasta la resolución de 7 67. Entonces puedo un Machwitt para que hasta este punto en particular solamente se vea con este tipo características. Entonces ponemos 7 67 pixeles y cerramos nuestra condición desde acá.
+
+01:35:28.000 --> 01:35:43.000
+Ahora sí. Bien, de este modo ya no. Una vez que pasemos esos 7 68 pixeles, no nos estará afectando en nuestro resultado como un desde aquí.
+
+01:35:43.000 --> 01:36:06.000
+Pero me está tomando como como como vemos desde otro desde otro Break Point, el mínimo de 480, donde tenía 2 columnas, entonces me establece este tipo de resolución es otra manera de estar limitando para que no pase eso podemos volver también a establecer desde aquí desde el punto
+
+01:36:06.000 --> 01:36:16.000
+galería, el ingreso de Ehh, Dos, de que que griten play poluns y griten play. Ross.
+
+01:36:16.000 --> 01:36:37.000
+Entonces puedo estar definiendo que que tenga 4 columnas para esta resolución Y además, para que agregarle otros tipos de propiedades con otros electores, en y acá, este es el formato bien ese es el formato resultante.
+
+01:36:37.000 --> 01:36:43.000
+Bien, pero tenemos una fila de más. Y así que lo podemos estar eliminando.
+
+01:36:43.000 --> 01:36:49.000
+Le puedo decir que tengas solamente 2.
+
+01:36:49.000 --> 01:36:54.000
+Bieniete sería el resultado en la parte inferior también.
+
+01:36:54.000 --> 01:37:00.000
+Este mismo formato que le hemos dado.
+
+01:37:00.000 --> 01:37:07.000
+Lo vamos a lo podemos ir visualizando de esta manera.
+
+01:37:07.000 --> 01:37:13.000
+Bien. Así que esta sería la forma de ir optimizando un poco a nuestra galería.
+
+01:37:13.000 --> 01:37:21.000
+Vamos a tratar de ir agregando un poco de flejos, también para que vean el resultado de todo esto.
+
+01:37:21.000 --> 01:37:27.000
+No sé si hay alguna pregunta hasta aquí, chicos, medidas que traten de despejar todas esas dudas que tengan.
+
+01:37:27.000 --> 01:37:32.000
+Ahí ya tenemos nuestra galería, que se va a estar optimizando a medida que vamos ¿
+
+01:37:32.000 --> 01:37:43.000
+Reduciendo. Vamos a ver una apariencia distinta y eso es lo que vamos a tener que tratar de lograr nosotros para diferentes resoluciones.
+
+01:37:43.000 --> 01:37:50.000
+Bien. Bueno, una vez que hicimos esto.
+
+01:37:50.000 --> 01:37:54.000
+También nos vamos a seguir basando.
+
+01:37:54.000 --> 01:38:03.000
+La pone el espejo el inspector. Vamos a basarnos en esa resolución de 3 20 Vuelvo de vuelta.
+
+01:38:03.000 --> 01:38:11.000
+Y voy a trabajar con el resto de los elementos. Bien, voy a aumentar un poquito más, 3, 20, más o menos ahí.
+
+01:38:11.000 --> 01:38:16.000
+Por ejemplo, podemos agregar una pequeña barra de navegación, un vanner.
+
+01:38:16.000 --> 01:38:25.000
+Entonces dentro de la parte Html. Voy a decirle que tenga un header donde este ger va a.
+
+01:38:25.000 --> 01:38:30.000
+Vamos a decirle que tenga el punto logo.
+
+01:38:30.000 --> 01:38:41.000
+Y también una barra, navegación, punto, Barra y Tabula, y ahí me genera la etiqueta Nap, donde tiene también la clase barra dentro.
+
+01:38:41.000 --> 01:38:58.000
+Voy a ver una lista desordenada donde esta lista desordenada va a tener cada una de estas etiquetas y que contiene la etiqueta para cada enlace de cada sesión donde podemos decirle que tenga el home Voy a duplicar toda esta línea con al
+
+01:38:58.000 --> 01:39:03.000
+Schief y la tecla hacia abajo 4 veces, y después le cambiamos el nombre para cada 1 de ellos.
+
+01:39:03.000 --> 01:39:10.000
+También le agregamos correctamente el vínculo en el H.
+
+01:39:10.000 --> 01:39:15.000
+Ref. Así que eso también les puede llegar a servir.
+
+01:39:15.000 --> 01:39:24.000
+Bueno, Bueno, Este es el resultado. Por el momento, tenemos que tratar de darle formato a este Heather Ehh.
+
+01:39:24.000 --> 01:39:29.000
+Bueno, esto lo vamos a ver que se van a estar ubicando 1 bajo del otro.
+
+01:39:29.000 --> 01:39:45.000
+Pero cuando lleguemos a la clase de gusta, yo les voy a mostrar que hay un menú que se llama del famoso menú hamburguesa, que estas 3 líneas justamente es por eso que lo menciona menu hamburguesa donde al hacer clic vamos a desplegar el
+
+01:39:45.000 --> 01:40:09.000
+contenido con cada 1 de esos diferentes enlaces como nosotros todavía no llegamos hasta esa clase de bustra, podemos agregar este iconito en la parte de la vista mogui como para indicar que a desplegar ese menú después cuando ya veamos ostras vamos a tener elementos que se
+
+01:40:09.000 --> 01:40:16.000
+van a estar adaptando, Va a ser mucho más fácil, incluso si todavía no terminan de comprender bien el tema.
+
+01:40:16.000 --> 01:40:36.000
+Es que ya el sitio, cuando trabajemos con este maquetado que vamos a tener en busca, va a hacer que tengamos un sitio fácil y rápido para que sea todo nuestro sitio totalmente responsable sin la necesidad de trabajar con las media cual vamos a trabajar con el uso de las clases y va a ser todo mucho mas
+
+01:40:36.000 --> 01:40:59.000
+importante, pero tenemos que saber el detrás que hay detra también para trabajar con cómo se maneja con el tema de las Así que bueno, esto mismo lo vamos a dejar en vez de que tenga esta barra navegación un icono por Ahora voy A.
+
+01:40:59.000 --> 01:41:03.000
+Íbamos a agregar el punto.
+
+01:41:03.000 --> 01:41:13.000
+Donde este punto menor podría ser un icono que podemos estar insertando por ejemplo, de Font Awson, ponemos Cdn.
+
+01:41:13.000 --> 01:41:20.000
+Escribimos desde aquí Fon Nawasson. Vinculamos con, Vimos en la en clases anteriores.
+
+01:41:20.000 --> 01:41:43.000
+Este enlace. Hago clic en este lugar y lo copiamos en la parte superior forense de nuestro archivo de estilos para que tenga relevancia este el de nosotros el que importa pero desde al z listo ya estamos vinculando fanaguazón me Voy al sitio fanatismo.
+
+01:41:43.000 --> 01:41:52.000
+Y en ese sitio buscamos e un el famoso iconito, este iconito de menú hamburguesa se llama Wars.
+
+01:41:52.000 --> 01:42:00.000
+Bueno, ustedes también pueden buscar menú o Bars que van a varias.
+
+01:42:00.000 --> 01:42:05.000
+Otra opción. De menú con estos 3 puntitos. Este también.
+
+01:42:05.000 --> 01:42:09.000
+A veces. se suele estar aplicando para desplegar algún menú.
+
+01:42:09.000 --> 01:42:12.000
+A mí me gusta este de barza. Yo lo voy a seleccionar.
+
+01:42:12.000 --> 01:42:17.000
+Me voy en la parte inferior y hacemos clic en este lugar.
+
+01:42:17.000 --> 01:42:23.000
+Voy a copiar todo esto y lo pegamos dentro de este contenedor perfecto.
+
+01:42:23.000 --> 01:42:30.000
+Vamos a ver el resultado momentáneamente. Y ahí vemos ese icono en este señal.
+
+01:42:30.000 --> 01:42:39.000
+Después, aquí podemos darle algún nombre, mi logo.
+
+01:42:39.000 --> 01:42:43.000
+Y nos queda de esta manera trabajemos con flejos.
+
+01:42:43.000 --> 01:42:48.000
+Sabemos que tenemos a nuestro Heather.
+
+01:42:48.000 --> 01:43:00.000
+La mencionamos de Taki Heather, agrego las llaves Le vamos a decir que tenga un ancho este head que sea del 100 que tenga una altura.
+
+01:43:00.000 --> 01:43:15.000
+Por ejemplo, unos 80 pixeles, además que tenga un color que sea en la y además trabajamos con el le plet.
+
+01:43:15.000 --> 01:43:26.000
+Para de nosotros, para por medio de Susty Fiy Content, que miro, se y el icono del menú se ve a la derecha.
+
+01:43:26.000 --> 01:43:35.000
+Para eso. Le puedo estar dando el valor de Space Betwin, y vemos este resultado, pero queda muy pegado en los laterales.
+
+01:43:35.000 --> 01:43:40.000
+Muy pegado a los márgenes, entonces esta estaría genial trabajar con el uso.
+
+01:43:40.000 --> 01:43:44.000
+Lo que vimos en Boston, como el Pain, para darle esa separación.
+
+01:43:44.000 --> 01:43:50.000
+Yo voy a aplicarle 20 pixeles, y este es el resultado que tenemos ahí.
+
+01:43:50.000 --> 01:43:57.000
+Genial. Bien como son. e íconos en formato.
+
+01:43:57.000 --> 01:44:01.000
+Sbg en formato vectorial que son tenidos en cuentas como si fueran caracteres.
+
+01:44:01.000 --> 01:44:12.000
+Puedo trabajar también con el ingreso de propiedad relacionada a textos como s color, y va a estar cambiando el formato de mi icono, El color.
+
+01:44:12.000 --> 01:44:19.000
+Guardo, y ahí podremos ver que me ha cambiado no solamente al texto sino también a licor después, si quieren darle algún tipo de sombra.
+
+01:44:19.000 --> 01:44:34.000
+También va a ser este visible para esta barra navegación Si lo queremos poner en mayúsculas con en por también lo vamos a visualizar.
+
+01:44:34.000 --> 01:44:41.000
+Estos son algunos detalles. Bien, y pasando ya en la parte inferior.
+
+01:44:41.000 --> 01:44:48.000
+Después de querer, voy a donde el mail va a contener una portada esta portada.
+
+01:44:48.000 --> 01:44:54.000
+Vamos a llamarla después siguiendo el orden main, agregamos las llaves.
+
+01:44:54.000 --> 01:45:07.000
+Aplico un ancho que también quiero que sea el 100 y el una altura, una altura.
+
+01:45:07.000 --> 01:45:16.000
+Vamos a decirle que a unos 450 pinceles con un valderán y más puro agrego.
+
+01:45:16.000 --> 01:45:41.000
+La imagen deseada, como, por ejemplo, esta acompañada con las propiedades del bronce y el valor de cover para que cubra todo ese elemento y, además, el posicionamiento va aromp position center guardamos y Este es el resultado hasta el momento y quizás es demasiado grande para la
+
+01:45:41.000 --> 01:45:54.000
+vista mobile. Entonces, por ahora le puedo decir que que 350 después, cuando vayamos trabajando con nuestras resoluciones, podemos ir cambiando la altura de este Banner, un mínimo ¿
+
+01:45:54.000 --> 01:46:04.000
+O definir un que me respete esta altura, y eso va a depender también dentro del contenido que establezcamos bien.
+
+01:46:04.000 --> 01:46:28.000
+Pasando a la siguiente sesión, vamos a agregar una sesión de nosotros como para ubicar un un elemento de de una imagen y un texto, un título en este ejemplo. Aqui ven ahí vamos viendo más o menos.
+
+01:46:28.000 --> 01:46:33.000
+Tenemos la parte de nosotros con una imagen, un título, un párrafo y un botón.
+
+01:46:33.000 --> 01:46:40.000
+Vamos a tratar de hacer esto también para este diseño.
+
+01:46:40.000 --> 01:46:47.000
+Bien, me voy a la parte de del vamos a agregar un h 2.
+
+01:46:47.000 --> 01:46:54.000
+Donde tenga el nombre nosotros. Lo bueno que tiene es que ya va a tener el mismo formato.
+
+01:46:54.000 --> 01:46:58.000
+Como ven, todos tienen el mismo formato.
+
+01:46:58.000 --> 01:47:06.000
+De todo, bien, entonces te Ya tenemos que ir agregando un contenedor.
+
+01:47:06.000 --> 01:47:12.000
+Este contenedor. Lo voy a llamar punto nosotros.
+
+01:47:12.000 --> 01:47:17.000
+Y dentro del mismo vamos a tener 2 elementos. Uno que va a ser la imagen.
+
+01:47:17.000 --> 01:47:28.000
+Yo le voy a poner el punto en Nelef de nosotros izquierda, y el punto N Ride.
+
+01:47:28.000 --> 01:47:32.000
+Bien.
+
+01:47:32.000 --> 01:47:41.000
+Bueno, dentro del del contenedor derecho. Tenemos el ingreso de un título que podría ser un H 3.
+
+01:47:41.000 --> 01:47:52.000
+Vamos a decirle que tenga mi título. quiénes somos mejor, quiénes somos de bajo un párrafo.
+
+01:47:52.000 --> 01:47:55.000
+Por la.
+
+01:47:55.000 --> 01:48:00.000
+Y un botón que nos lleve a ver más información.
+
+01:48:00.000 --> 01:48:11.000
+Por ejemplo, lo ponemos numeral, ver más inf o ver más.
+
+01:48:11.000 --> 01:48:23.000
+Bien, entonces vamos a llamar ahora al contenedor punto nosotros para darle las dimensiones correspondientes debajo del main ponemos punto a nosotros, agregó las llaves.
+
+01:48:23.000 --> 01:48:30.000
+Establezco el ancho que sea también del 100 por 100 una altura.
+
+01:48:30.000 --> 01:48:35.000
+Una altura que sea de 350. Pinceles también.
+
+01:48:35.000 --> 01:48:50.000
+Un color de fondo. Un Gran Ehh, Un color. 333.
+
+01:48:50.000 --> 01:48:55.000
+Bien, y después vamos a trabajar con el ingreso de nuestro.
+
+01:48:55.000 --> 01:49:00.000
+Nuestro contenedor, que era el punto Lef.
+
+01:49:00.000 --> 01:49:05.000
+Donde a este le vamos a Era una imagen Mauro Animais Ur.
+
+01:49:05.000 --> 01:49:12.000
+Y Mg: Se lesiona mi imagen de vegetales. Guardamos.
+
+01:49:12.000 --> 01:49:17.000
+Por por ahora no se va a ver nada. Tenemos que darle también una altura.
+
+01:49:17.000 --> 01:49:25.000
+Entonces voy a decirle que tenga una altura también de 300 Ehh.
+
+01:49:25.000 --> 01:49:33.000
+Vamos a decirle que tenga un ancho del 50.
+
+01:49:33.000 --> 01:49:43.000
+Bien, y esta misma imagen también le voy a indicar que tenga un badrón saiz con el valor de Escoba.
+
+01:49:43.000 --> 01:49:50.000
+Y un padrón position Center.
+
+01:49:50.000 --> 01:49:54.000
+Bien. Este es el resultado hasta el momento. Esa es la imagen que tenemos.
+
+01:49:54.000 --> 01:50:01.000
+Si vemos que es demasiado, lo podemos. Yo lo voy a reducir más o menos.
+
+01:50:01.000 --> 01:50:07.000
+270, pinceles.
+
+01:50:07.000 --> 01:50:12.000
+Bien. Pero ¿qué pasó en esta resurrección? En esta resolución?
+
+01:50:12.000 --> 01:50:19.000
+No creo que sería lo ideal no ponerlos en 2 columnas, porque es muy pequeño.
+
+01:50:19.000 --> 01:50:24.000
+Entonces, en vez de haberle indicado que tenga.
+
+01:50:24.000 --> 01:50:35.000
+Como les había mencionado 100 por 100. Le bien, Entonces, de esta forma vamos a ver la imagen con este formato y nos está desbordando el contenido.
+
+01:50:35.000 --> 01:50:45.000
+Entonces puedo decir lo que tenga un mínimo de altura en el contenido de punto. Nosotros.
+
+01:50:45.000 --> 01:51:06.000
+Y ahí se su ubica. Si quieren, voy a dejar un color blanco para que se estaque más. Lo que nos dice bien. Después de alena right le damos formato punto n rit.
+
+01:51:06.000 --> 01:51:15.000
+Las llaves y declaramos que ¿ Un ancho también.
+
+01:51:15.000 --> 01:51:27.000
+Acá el 100, una altura que la altura podría ser auto. Incluso no hace falta que yo le voy a dejar el valor de auto.
+
+01:51:27.000 --> 01:51:44.000
+Bien. Y después a todo nuestro contenido de para no estar ¿ Escribiendo en cada en cada 1 de ellos. Tanto en el párrafo como en el título puedo darle un test line con el valor por ejemplo, de Center y ya se me Centran por herencia.
+
+01:51:44.000 --> 01:51:48.000
+El párrafo y el título también. Bueno. Lo voy a dejar.
+
+01:51:48.000 --> 01:52:00.000
+Incluso si vemos también nuestro enlace. Bueno, vamos a ir a la parte del siguiente elemento que va a ser el el H.
+
+01:52:00.000 --> 01:52:08.000
+3 abro las llaves y y que tenga una fuente más grande o una fuente distinta.
+
+01:52:08.000 --> 01:52:23.000
+Voy a poner por ahora a vamos a ir también un tamaño más, una vez un von saz de, por ejemplo, unos 25 pixeles.
+
+01:52:23.000 --> 01:52:31.000
+Ahí va. ¿Por qué no ponerlo en mayúsculas en o porkis?
+
+01:52:31.000 --> 01:52:37.000
+Darle otro color manteniendo esta paleta de colores, Lo voy a hacer en verde.
+
+01:52:37.000 --> 01:52:38.000
+Ahí va quedando y además, algo que tampoco me gusta es que quede pegado los textos al contenedor.
+
+01:52:38.000 --> 01:52:51.000
+Entonces, a a nuestro contenedor en general, Al neluf, al N. Ray Perrón.
+
+01:52:51.000 --> 01:52:54.000
+Le vamos a dar un pin un paine de unos 20 pixeles.
+
+01:52:54.000 --> 01:53:03.000
+También entonces ya queda de esta manera. Tampoco me gusta que el título quede bien pegado al párrafo Entonces podemos decirle que al H.
+
+01:53:03.000 --> 01:53:08.000
+3. Tengo un.
+
+01:53:08.000 --> 01:53:11.000
+De unos 30 pixeles.
+
+01:53:11.000 --> 01:53:18.000
+Perfecto. Ahí vemos esa separación, quizás de más con unos 25. Sería más genial.
+
+01:53:18.000 --> 01:53:26.000
+Y nos queda. El botón a ese elemento a ese al N Right.
+
+01:53:26.000 --> 01:53:38.000
+Qué contiene la etiqueta? Le aplicamos un color de fondo por gran color que sea verde. Grin.
+
+01:53:38.000 --> 01:53:46.000
+Y, además, el que tenga un color de texto blanco. No quiero ese color por defecto.
+
+01:53:46.000 --> 01:53:48.000
+En blanco.
+
+01:53:48.000 --> 01:53:59.000
+Bien. Además, vamos a trabajar con el uso del Pin. Voy a decirle que tenga unos 10 pixeles y unos 20 pinceles para que quede un formato.
+
+01:53:59.000 --> 01:54:11.000
+Es más. Ehh: Y ese es el resultado también al punto N Rete, que contiene el párrafo.
+
+01:54:11.000 --> 01:54:19.000
+Vamos a darle un Marshington para que no se posicione por encima 20 pizzas más o menos.
+
+01:54:19.000 --> 01:54:27.000
+Ahí va a su vez a el elemento de la etiqueta.
+
+01:54:27.000 --> 01:54:35.000
+No quiero que se visualice ese sur allá con Test decoration y el valor de non, eliminamos ese subrayado genial.
+
+01:54:35.000 --> 01:54:40.000
+Y ahí vamos viendo cómo va.
+
+01:54:40.000 --> 01:55:05.000
+Bien, una vez que hayamos terminado todo el diseño del sitio, de manera general, podemos ir y vamos viendo cómo va queando en diferentes resoluciones, quizás en la resolución de 480, quiero ubicar a este texto 1 al lado del otro o en otra resolución más grande eso va a depender como lo
+
+01:55:05.000 --> 01:55:17.000
+vamos a hacerlo por en la de 4 80 y el punto en el F.
+
+01:55:17.000 --> 01:55:24.000
+Quiero que tenga un ancho del 50 por 100.
+
+01:55:24.000 --> 01:55:32.000
+Lo mismo para elena right. Entonces, en el.
+
+01:55:32.000 --> 01:55:37.000
+Y vamos a tener para ambos electores ese ancho del 50 por 100.
+
+01:55:37.000 --> 01:55:51.000
+No. Pero lo que está pasando aquí es que se van a ubicar 1 bajo el otro, porque son elementos de blog para que se posicionen 1 al podemos llamar al contenedor que el contenedor era ¿
+
+01:55:51.000 --> 01:55:58.000
+Nosotros Abro abro las llaves y establecemos desde aquí, por ejemplo, un Display Flex.
+
+01:55:58.000 --> 01:56:11.000
+De esta forma vamos a ver que se van a estar ubicando 1 al lado del otro, pero tenemos otras, como es el tema de la altura que le hemos dado al punto nosotros.
+
+01:56:11.000 --> 01:56:15.000
+Yo había indicado que tenía una altura de 2 350 pinceles.
+
+01:56:15.000 --> 01:56:28.000
+Si no me equivoco, puedo reducirlo, en 2 015, quizás en 200 pixeles.
+
+01:56:28.000 --> 01:56:35.000
+No vamos a tener inconvenientes. No tengo que estar estableciendo nada. Desde aquí ven.
+
+01:56:35.000 --> 01:56:43.000
+En este es el formato que nos va a estar guiando, pero en algunas resoluciones puede llegar a pasar esto.
+
+01:56:43.000 --> 01:57:03.000
+Como ven, el contenido es y me está entonces en esa resolución, tenemos que tener en cuenta estos recaudos para que no suceda esto, tratar de optimizarlo o ingresos menos textos o cambios del tamaño del texto siempre y cuando respetemos que los textos deben ser superiores
+
+01:57:03.000 --> 01:57:14.000
+a 16 episodios, podemos cambiar el formato, Sí, ubicarlo.
+
+01:57:14.000 --> 01:57:15.000
+Perdón.
+
+01:57:15.000 --> 01:57:16.000
+Eso tenemos que ir teniendo en cuenta de ahora en más y y otro detalle.
+
+01:57:16.000 --> 01:57:20.000
+No podemos.
+
+01:57:20.000 --> 01:57:44.000
+También también podría ser otra alternativa agrandar la imagen para que no quede ese espacio como en la parte inferior cuadrearnos algún color de fondo y mantener la ubicación de la imagen centrada o dejarlo en ese lugar que podemos estar teniendo en cuenta en este tipo de
+
+01:57:44.000 --> 01:57:59.000
+resolución a acá había dicho que tenía 2 70. Entonces, para solucionarlo, como Vos mencionabas, podría haberle dicho que 350.
+
+01:57:59.000 --> 01:58:04.000
+Ahí da con esos 350. Píxeles, no haber inconvenientes.
+
+01:58:04.000 --> 01:58:05.000
+Creo que disculpe.
+
+01:58:05.000 --> 01:58:09.000
+Vamos a verlo bien. Y lo cómo va? Sí, Ricardo?
+
+01:58:09.000 --> 01:58:16.000
+Pues. ¡ Si le pusiera, por ejemplo, automático.
+
+01:58:16.000 --> 01:58:35.000
+Cuando trabajamos con el valor de tenemos que tener en cuenta que para alguna de las 2 resoluciones, me refiero al ancho o a la altura, sí o sí, le tenemos que establecer algún entonces de esa forma si leamos el valor de auto, ahí sí lo va a tener en cuenta con el tema de la imagen, si
+
+01:58:35.000 --> 01:58:39.000
+va a pasar. Eso lo va a tratar de llevar a la escala.
+
+01:58:39.000 --> 01:58:44.000
+A la hora de, o sea, a la escala. que vamos a tener el se entiende no nada rica.
+
+01:58:44.000 --> 01:58:48.000
+Gracias. Sí, Sí.
+
+01:58:48.000 --> 01:58:56.000
+El resto. Hasta aquí. Alguna duda, hay algo que no se. Bueno, la idea es que vean un poco la integración.
+
+01:58:56.000 --> 01:59:05.000
+Con esto nuevo que dimos en gris, el uso de las media acuere y a partir de ahora queda en práctica mucha práctica.
+
+01:59:05.000 --> 01:59:14.000
+Espero que les haya servido como para tener una mejor idea de cómo empezar a trabajar en el mundo de las medi acueris más que nada.
+
+01:59:14.000 --> 01:59:43.000
+Bueno, igualmente, como les mencionaba por el chat, cuando lleguemos a la clase Bustrap, van a ver otra manera de trabajar sin la necesidad de declarar ninguna media, o al menos vamos a reducirlo enormemente ponerse las clases así que ¿
+
+01:59:43.000 --> 01:59:44.000
+A ver si.
+
+01:59:44.000 --> 01:59:50.000
+Igualmente practiquen. Sepan cómo se trabaja con el tema. Pero ya cuando llegamos a la clase detra, va a ser mucho más simple trabajar con esto. Si así en el que incluso en algunos sectores podrían trabajar con sí decime Juan.
+
+01:59:50.000 --> 02:00:02.000
+Yo tengo un problema. A mí me corrigieron ayer a las 11 y media de la noche.
+
+02:00:02.000 --> 02:00:03.000
+Sí, Sí.
+
+02:00:03.000 --> 02:00:04.000
+Yo la verdad, que a las 11 y media, estoy durmiendo, como la mayoría de los de acá creo, y bueno, la notificación no la vi obvio.
+
+02:00:04.000 --> 02:00:10.000
+La veo hace un rato, y tengo que la entrega que tenía que entregar y modificó una cosa.
+
+02:00:10.000 --> 02:00:14.000
+Era hasta hoy. Hasta las 7 de la tarde.
+
+02:00:14.000 --> 02:00:30.000
+A ver qué solución se puede, porque me parece totalmente absurdo que te corrijan a las casi 12 de la noche, cuando, sabiendo que la mayoría laura llega a la casa a las 6 de la tarde y te den 16 h para.
+
+02:00:30.000 --> 02:00:37.000
+Bien, Le voy a dar la posibilidad de que que tenga más tiempo para entregar si está más que claro.
+
+02:00:37.000 --> 02:00:43.000
+Entiendo la situación Juan, así que no te preocupes que te voy a dar el tiempo para que puedas reintegrar correctamente.
+
+02:00:43.000 --> 02:00:44.000
+Okay.
+
+02:00:44.000 --> 02:00:46.000
+Dale. Bueno, te agradezco.
+
+02:00:46.000 --> 02:00:52.000
+Todos los que hayan tenido inconvenientes. ¿ Con el tema de las preentregas, me envían mensaje privado.
+
+02:00:52.000 --> 02:00:53.000
+Y lo vamos viendo, ¿sí? Así que.
+
+02:00:53.000 --> 02:00:57.000
+Dale. Dale. Gracias.
+
+02:00:57.000 --> 02:00:58.000
+Sí.
+
+02:00:58.000 --> 02:00:59.000
+En la Me agrego un comentario para que Juan no se preocupe que en realidad es el sistema.
+
+02:00:59.000 --> 02:01:00.000
+No es que ninguno de los tutores destinemos o determinemos.
+
+02:01:00.000 --> 02:01:17.000
+Quiero decir el plazo de entrega, sino que el sistema automáticamente lo calcula y lo establece Juan, en caso de que no llegues, no te preocupes, lo que puedes hacer es escribirle a tu tutor para que el te actualice el plazo nuevamente y puedas entregar te
+
+02:01:17.000 --> 02:01:18.000
+desbloquea la entrega y vas a poder hacerlo después.
+
+02:01:18.000 --> 02:01:20.000
+No te preocupes.
+
+02:01:20.000 --> 02:01:26.000
+Listo! Listo. Listo. Barba, no yo más que nada, porque hace un rato veo las notificaciones celular.
+
+02:01:26.000 --> 02:01:38.000
+Le pregunté si, y ahí me avisaron que la la re entregar hasta hoy, hasta las 6, 7 de la tarde y yo. La verdad, que la notificación ni la vía, las.
+
+02:01:38.000 --> 02:01:39.000
+Pensaba que era el propio tutor que te había indicado.
+
+02:01:39.000 --> 02:01:47.000
+No, Si es así, cuando el teorema de la plataforma ya se maneja con mensajes automatizados.
+
+02:01:47.000 --> 02:01:52.000
+Así que si te lo dice tu propio tutor, bueno, ahí es una cosa.
+
+02:01:52.000 --> 02:01:53.000
+Si es este la plataforma?
+
+02:01:53.000 --> 02:02:00.000
+No, no me lo dijo. Por lo que ves, me dijo que se venció el sistema.
+
+02:02:00.000 --> 02:02:01.000
+Exacto.
+
+02:02:01.000 --> 02:02:03.000
+El mismo sistema fue que dijo el plazo para volver a entregar el desafío, terminó a las 19 h.
+
+02:02:03.000 --> 02:02:04.000
+Por eso ahora se te venció, pues no te preocupes.
+
+02:02:04.000 --> 02:02:11.000
+Les crees a tutor y decís, necesito más tiempo, y él te lo va a poder desbloquear y darte 48 h más.
+
+02:02:11.000 --> 02:02:15.000
+Dale muchísimas.
+
+02:02:15.000 --> 02:02:16.000
+En el. Bueno, no sé si queda otra consulta más chicos, sino vamos a ir finalizando por el día de hoy.
+
+02:02:16.000 --> 02:02:28.000
+Les recuerdo que todo este material que hemos desarrollado en esta clase se los voy a compartir ahora en un ratito.
+
+02:02:28.000 --> 02:02:33.000
+Así lo tienen todo el código para trabajarlo, como ustedes gusten.
+
+02:02:33.000 --> 02:02:41.000
+Bien. Bueno, chicos que tengan semana y nos vemos ya la siguiente clase. Saludos a todos que tengan buenas noches chao.
+
+02:02:41.000 --> 02:02:43.000
+Te saludo. Profe: Muchas gracias.
+
+02:02:43.000 --> 02:02:52.000
+Hasta luego.
+

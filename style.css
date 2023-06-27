@@ -1,0 +1,442 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(Multimedia/Background.png);
+}
+
+/* NavBar - CSS Inicio */
+header{
+    background-color: black;
+}
+.navbar{
+    background-color: black !important;
+}
+.nav-item a{
+    color: rgb(169 116 254) !important;
+}
+.nav-item a:hover{
+    color: white !important;
+}
+.navbar-toggler{ /* MENU HAMBURGUESA */
+    border: 2px solid rgb(169 116 254) !important;
+}
+.navbar-brand img{ /* LOGO HOME */
+    width: 50px;
+}
+.navbar-brand img:hover{
+    filter: grayscale(100%);
+    transition: filter 0.1s ease;
+}
+/* NavBar - CSS Final */
+
+/* Footer - CSS Inicio */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer p{
+    margin-top: 15px;
+}
+.navInferior{
+    margin: 15px;
+}
+.navInferior a{ /* LINKS SUPERIORES */
+    color: rgb(169 116 254);
+    padding: 5px;
+}
+.navInferior a:hover{
+    color: white;
+    text-decoration: none;
+}
+.redes a{ /* REDES SOCIALES */
+    color: rgb(169 116 254);
+    margin-top: 30px;
+    padding: 5px;
+}
+.redes a:hover{
+    color: white;
+    text-decoration: none;
+}
+/* Footer - CSS Final */
+
+/* Home - CSS Inicio */
+.menuHome{ /* MENU HOME - CSS Inicio */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Multimedia/microphone-2618102_1920.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 350px;
+    width: auto;
+    padding: 40px;
+}
+.menuHome h2{
+    color: rgb(169 116 254) !important;
+    text-shadow: 2px 2px 4px rgba(, 0, 0, 15);
+}
+.botonHome{
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(, 0, 0, 15) ;
+    border: 0px solid;
+}
+.botonHome:hover{
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(169 116 254) ;
+}
+.botonHome a{ /* MENU HOME - CSS Final */
+    color: black;
+    text-decoration: none;
+}
+
+.contenedorMenu{
+    margin: 15px;
+    padding: 10px;
+    color: black;
+    background-color: rgb(169 116 254);
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.contenedorMenu iframe{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+
+/* Home - CSS Final */
+
+/* Staff - CSS Inicio */
+.menuStaff{ /* MENU STAFF - CSS Inicio */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Multimedia/radio-4245029_1280\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 350px;
+    width: auto;
+    padding: 20px;
+    text-align: left;
+    padding: 40px;
+}
+.menuStaff h2{
+    color: rgb(169 116 254) !important;
+    text-shadow: 2px 2px 4px rgba(, 0, 0, 15);
+}
+.botonStaff{
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(, 0, 0, 15) ;
+    border: 0px solid;
+}
+.botonStaff:hover{
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(169 116 254) ;
+}
+.botonStaff a{ /* MENU STAFF - CSS Final */
+    color: black;
+    text-decoration: none;
+}
+
+.row div{/* BODY STAFF - CSS Inicio */
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.col-md-4 img{
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contenedorStaff{
+    text-align: center;
+}
+.col-md-4 img:hover{
+    border-radius: 20px;
+}
+.image-container {
+    position: relative;
+    display: inline-block;
+    border-radius: 20px;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: rgb(169 116 254);
+    opacity: 0;
+    transition: opacity 0s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.overlay:hover {
+    opacity: 1;
+    border-radius: 20px;
+}
+.social-icons {
+    display: flex;
+}
+.social-icons i {
+    margin: 5px;
+    padding: 10px;
+    color: rgb(169 116 254);
+}
+.social-icons i:hover { /* BODY STAFF - CSS Final */
+    color: white;
+}
+/* Staff - CSS Final */
+
+/* Suscripcion - CSS Inicio */
+.menuSuscrip{ /* MENU SUSCRIPCION - CSS Inicio */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Multimedia/subscribe-6281233_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 350px;
+    width: auto;
+    padding: 20px;
+}
+.menuSuscrip h2{
+    color: rgb(169 116 254) !important;
+    text-shadow: 2px 2px 4px rgba(, 0, 0, 15);
+}
+.botonSuscrip{
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(, 0, 0, 15) ;
+    border: 0px solid;
+}
+.botonSuscrip:hover{
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(169 116 254) ;
+}
+.botonSuscrip a{ /* MENU SUSCRIPCION - CSS Final */
+    color: black;
+    text-decoration: none;
+}
+
+.contenedorSub{ /* BOX SUSCRIPCIONES - CSS Inicio */
+    text-align: left;
+    margin: 15px;
+    background-color: white;
+    padding: 40px;
+    border: 2px solid black;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.contenedorSub p{
+    margin-top: 10px;
+}
+.contenedorSub h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.contenedorSub iframe{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.patreon{
+    text-align: center;
+}
+.subLink{
+    text-align: center;
+    color: white;
+    margin: 20px;
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    font-weight: bold;
+}
+.subLink:hover{ /* BOX SUSCRIPCIONES - CSS Final */
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+/* Suscripcion - CSS Final */
+
+/* Episodios - CSS Inicio */
+.menuEpisod{ /* MENU EPISODIOS - CSS Inicio */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Multimedia/laptop-4838060_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 350px;
+    width: auto;
+    padding: 20px;
+}
+.menuEpisod h2{
+    color: rgb(169 116 254) !important;
+    text-shadow: 2px 2px 4px rgba(, 0, 0, 15);
+}
+.botonEpisod{
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(, 0, 0, 15) ;
+    border: 0px solid;
+}
+.botonEpisod:hover{
+    background-color: yellowgreen;
+    box-shadow: 2px 2px 4px black ;
+}
+.botonEpisod a{ /* MENU EPISODIOS - CSS Final */
+    color: black;
+    text-decoration: none;
+}
+
+.imgEpisodios img{
+    padding: 10px;
+    border-radius: 20px;
+}
+.imgEpisodios:hover{
+    filter: grayscale(100%);
+    transition: filter 0.5s ease;
+}
+/* Episodios - CSS Final */
+
+/* Contacto - CSS Inicio */
+.menuContacto{ /* MENU SUSCRIPCION - CSS Inicio */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Multimedia/contact-2860030_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 350px;
+    width: auto;
+    padding: 20px;
+}
+.menuContacto h2{
+    color: rgb(169 116 254) !important;
+    text-shadow: 2px 2px 4px rgba(, 0, 0, 15);
+}
+.botonContacto{
+    background-color: rgb(169 116 254);
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(, 0, 0, 15) ;
+    border: 0px solid;
+}
+.botonContacto:hover{
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(169 116 254) ;
+}
+.botonContacto a{ /* MENU SUSCRIPCION - CSS Final */
+    color: black;
+    text-decoration: none;
+}
+.modal-content{ /* CARTEL CONTACTO - CSS INICIO */
+    background-color: black;
+    color: rgba(169 116 254)
+}
+.close{
+    color: rgba(169 116 254) !important;
+    border: 0px !important;
+}
+.close:hover{
+    color: white !important;
+    border: 0px !important;
+}
+.btn-danger{
+    background-color: rgba(169 116 254) !important;
+    border: 0px !important;
+}
+.btn-danger:hover{ /* CARTEL CONTACTO - CSS FINAL */
+    background-color: white !important;
+    border: 0px !important;
+    color: black;
+    box-shadow: 2px 2px 4px rgba(169 116 254) ;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+.column-20 {
+    flex: 0 0 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 5px solid rgba(169 116 254);
+}
+.column-80 {
+    flex: 0 0 100%;
+    background-color: black;
+    color: rgba(169 116 254);
+    border: 5px solid rgba(169 116 254);
+}
+.contactoBox {
+    max-width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.contactoBox h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.inputBox {
+    margin-bottom: 10px;
+}
+.inputBox label {
+    display: block;
+    margin-bottom: 5px;
+}
+.inputBox input[type="text"],
+.inputBox input[type="email"],
+.inputBox textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+.inputBox textarea {
+    height: 100px;
+}
+.inputBox input[type="submit"] {
+    background-color: rgba(169 116 254);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.inputBox input[type="submit"]:hover {
+background-color: white;
+color: black;
+}
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+.contenedorContact{
+    margin: 17px;
+}
+/* Media queries para diseño responsive */
+@media (min-width: 768px) {
+.rowCom {
+flex-wrap: nowrap;
+}
+.column-20 {
+flex: 0 0 20%;
+}
+.column-80 {
+flex: 0 0 80%;
+}
+}
+/* Contacto - CSS Final */
