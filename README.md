@@ -1,4 +1,4 @@
-# Dsecentralizados
+# Descentralizados
 Proyecto de CODERHOUSE 
 # 💫 About Me:
 Desarrollador Web en formacion! 
